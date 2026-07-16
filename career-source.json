@@ -1,0 +1,2635 @@
+{
+  "version": "1.0",
+  "profile": {
+    "name": "CHRISTIAN PAINCHAUD",
+    "location": "Montréal, QC",
+    "headline": "Senior Product Manager and entrepreneur",
+    "summary": "Senior Product Manager and entrepreneur with a strong track record of leading 0→1 SaaS products from ambiguous problem spaces to revenue-generating platforms. Known for structuring complex systems, aligning teams, and driving execution from discovery through delivery. Hands-on with APIs, integrations, and AI tools, using direct building experience to design better products and reduce system complexity.",
+    "visibility_default": "public"
+  },
+  "organizations": [
+    {
+      "id": "ba3068a5-49c8-4b04-a088-e9b6b4f82e74",
+      "name": "Hobby",
+      "aliases": [],
+      "locations": [
+        "Northern Quebec",
+        "QC, Canada"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "ba3068a5-49c8-4b04-a088-e9b6b4f82e74::Elite Hockey Player",
+          "title": "Elite Hockey Player",
+          "employment_type": "",
+          "location": "QC, Canada",
+          "start": {
+            "year": 1993,
+            "month": 8
+          },
+          "end": {
+            "year": 2004,
+            "month": 5
+          },
+          "summary_derived": "",
+          "notes": "",
+          "events": [
+            {
+              "id": "5e029c45-0b89-4e83-9c8f-910ae6809bdd",
+              "type": "project",
+              "date": {
+                "year": 1993,
+                "month": 1
+              },
+              "location": "QC, Canada",
+              "title": "Played elite hockey",
+              "what": "Played elite hockey",
+              "how": "Games, practices, trainings. With fire, passion, energy.",
+              "why": "Hockey is important in Canada, and I loved playing it.",
+              "outcomes": "Learned what hard work feels like, what teamwork is, and what it means to place the team first. Gained an understanding of what it takes to \"win\", an attitude that has been a great asset. I learned leadership and toughness. All those things served me very well in the job market. I made my teams better.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        },
+        {
+          "id": "ba3068a5-49c8-4b04-a088-e9b6b4f82e74::Expert Fly Fisherman",
+          "title": "Expert Fly Fisherman",
+          "employment_type": "",
+          "location": "Northern Quebec",
+          "start": {
+            "year": 1999,
+            "month": 1
+          },
+          "end": {},
+          "summary_derived": "",
+          "notes": "",
+          "events": [
+            {
+              "id": "9ec988d8-7ebf-473e-97bc-a1e6e09fc704",
+              "type": "project",
+              "date": {
+                "year": 1999,
+                "month": 1
+              },
+              "location": "Northern Quebec",
+              "title": "Started fly fishing and achieved expert level",
+              "what": "Started fly fishing and achieved expert level",
+              "how": "Developed skills and practice in catching salmon, trout, and various fish",
+              "why": "Grew up going in the woods, valuing connection to nature. Fly fishing is active, focused, and demands knowledge and know-how.",
+              "outcomes": "Achieved expert level in fly fishing",
+              "visibility": "private",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resume-derived-universite-laval",
+      "name": "Université Laval",
+      "aliases": [],
+      "locations": [],
+      "notes": "",
+      "roles": [
+        {
+          "id": "resume-derived-universite-laval::Student",
+          "title": "Student",
+          "employment_type": "",
+          "location": "",
+          "start": {
+            "year": 2004,
+            "month": 1
+          },
+          "end": {
+            "year": 2007,
+            "month": 12
+          },
+          "summary_derived": "Studied Physical Engineering; program left incomplete.",
+          "notes": "",
+          "events": [
+            {
+              "id": "resume-derived-universite-laval-physical-engineering",
+              "type": "milestone",
+              "date": {
+                "year": 2007,
+                "month": 12
+              },
+              "location": "",
+              "title": "Studied Physical Engineering (incomplete)",
+              "what": "Studied Physical Engineering (incomplete)",
+              "how": "",
+              "why": "",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [
+                "education"
+              ],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "CPAINCHAUD_Product_052226.pdf"
+              ],
+              "confidence": "derived_from_resume_pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e49630e-a39e-4067-9868-2a6d533193c4",
+      "name": "HEC Montréal",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, Canada",
+        "Aarhus, Denmark"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "5e49630e-a39e-4067-9868-2a6d533193c4::Student",
+          "title": "Student",
+          "employment_type": "",
+          "location": "Montréal, QC, Canada",
+          "start": {
+            "year": 2008,
+            "month": 1
+          },
+          "end": {
+            "year": 2010,
+            "month": 12
+          },
+          "summary_derived": "B.B.A. in Finance, including an exchange at Aarhus School of Business in Denmark.",
+          "notes": "",
+          "events": [
+            {
+              "id": "resume-derived-hec-aarhus-exchange",
+              "type": "milestone",
+              "date": {
+                "year": 2009,
+                "month": 1
+              },
+              "location": "Aarhus, Denmark",
+              "title": "Completed exchange at Aarhus School of Business",
+              "what": "Completed exchange at Aarhus School of Business",
+              "how": "",
+              "why": "",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [
+                "education",
+                "exchange"
+              ],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "CPAINCHAUD_Product_052226.pdf"
+              ],
+              "confidence": "derived_from_resume_pdf"
+            },
+            {
+              "id": "93ecff1e-b66f-4955-8ed6-6af871ab4048",
+              "type": "milestone",
+              "date": {
+                "year": 2010,
+                "month": 12
+              },
+              "location": "Montreal, QC Canada",
+              "title": "Graduated Bachelor degree in Finance",
+              "what": "Graduated Bachelor degree in Finance",
+              "how": "re-oriented studies towards SMEs financial management and entrepreneurship after the financial crisis",
+              "why": "The 2008 Financial Crisis lowered opinion of investment banking, highlighting the importance of local economies and diverse businesses.",
+              "outcomes": "Graduated with important new knowledge in financial management, financial strategy, cashflow management, governance, risk management, financial modeling, accounting, and business strategy, which proved valuable for professional journey.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "CPAINCHAUD_Product_052226.pdf"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd2cc1cd-fc54-4565-827e-61c8ba267597",
+      "name": "Le Feu Sacré Steakhouse",
+      "aliases": [],
+      "locations": [
+        "Quebec City"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "bd2cc1cd-fc54-4565-827e-61c8ba267597::Waiter",
+          "title": "Waiter",
+          "employment_type": "",
+          "location": "Quebec City",
+          "start": {
+            "year": 2008,
+            "month": 5
+          },
+          "end": {
+            "year": 2008,
+            "month": 9
+          },
+          "summary_derived": "",
+          "notes": "",
+          "events": [
+            {
+              "id": "ee57c097-a556-4c69-93a8-40da5e9aa09c",
+              "type": "project",
+              "date": {
+                "year": 2008,
+                "month": 6
+              },
+              "location": "Quebec City",
+              "title": "Served customers food and drinks, and helped them with local tourist information.",
+              "what": "Served customers food and drinks, and helped them with local tourist information.",
+              "how": "Worked fast, prioritized customer satisfaction, and ensured guests enjoyed their experience in the restaurant and the city.",
+              "why": "I needed a student job and had previous restaurant experience as a cook and busboy. I wanted to try being a waiter and enjoy interacting with the public.",
+              "outcomes": "My manager noted that we made more tips when I worked, indicating my skill in selling and making people feel comfortable.",
+              "visibility": "private",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e1da92b-8e9e-489e-8e25-d799958da82f",
+      "name": "Osisko Mining Corp.",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, CAN"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "3e1da92b-8e9e-489e-8e25-d799958da82f::Financial Analyst",
+          "title": "Financial Analyst",
+          "employment_type": "",
+          "location": "Montréal, QC, CAN",
+          "start": {
+            "year": 2009,
+            "month": 5
+          },
+          "end": {
+            "year": 2011,
+            "month": 4
+          },
+          "summary_derived": "Worked with financial models and investment scenarios supporting a $1B gold mining expansion, and provided strategic analyses to senior finance leadership and the executive team.",
+          "notes": "",
+          "events": [
+            {
+              "id": "3ba086eb-ca2f-472f-9534-a90b833cd5a6",
+              "type": "transition",
+              "date": {
+                "year": 2009,
+                "month": 5
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Started new role",
+              "what": "Started new role",
+              "how": "I sent a resume and a cover letter. My cover letter highlighted that growing up is a \"resources region\" I understood the value of natural resources for the local communities and economies",
+              "why": "I liked Osisko's ambition to transition from exploration venture to mid-size gold producer, raising a billion dollars at the bottom of the 2008-2010 financial crisis. My plan was to be hired in the back-office then make my way to the corporate finance team.",
+              "outcomes": "I was hired in the accounting team. My manager said that the cover letter gave me the job.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "e79b2e28-e3b2-428c-8861-c78fcdc1e558",
+              "type": "transition",
+              "date": {
+                "year": 2011,
+                "month": 4
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Ended role as Financial Analyst",
+              "what": "Ended role as Financial Analyst",
+              "how": "",
+              "why": "",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41b55ee0-cd88-4d6d-9164-e0d532be1b48",
+      "name": "Kickflip",
+      "aliases": [
+        "MyCustomizer",
+        "12Punch Design"
+      ],
+      "locations": [
+        "Québec, QC, Canada",
+        "Montreal, QC, Canada"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "41b55ee0-cd88-4d6d-9164-e0d532be1b48::Co-founder",
+          "title": "Co-founder",
+          "employment_type": "",
+          "location": "Montréal, QC, CAN",
+          "start": {
+            "year": 2011,
+            "month": 5
+          },
+          "end": {
+            "year": 2013,
+            "month": 8
+          },
+          "summary_derived": "Owned business development and financial management, helped pivot the company from services to product, and raised pre-seed capital through the FounderFuel accelerator.",
+          "notes": "",
+          "events": [
+            {
+              "id": "a8201865-4079-4c4e-98f2-f90bb636c4d9",
+              "type": "transition",
+              "date": {
+                "year": 2011,
+                "month": 5
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Started new role",
+              "what": "Started new role",
+              "how": "Friends asked me to take care of their software company back-office.",
+              "why": "My background in finance and my communication skills were neede.",
+              "outcomes": "I started to manage the company back office.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "bd882469-2775-452b-8cad-d4b2e9dcd851",
+              "type": "project",
+              "date": {
+                "year": 2012,
+                "month": 7
+              },
+              "location": "",
+              "title": "Pivoted the company from web development services to a product company",
+              "what": "Pivoted the company from web development services to a product company",
+              "how": "Transformed specialized services into a product, aiming for repeatability and scalability; convinced a New Balance subsidiary to switch to the product",
+              "why": "",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "32b733d3-1dca-4e87-aa04-440d428e72fc",
+              "type": "project",
+              "date": {
+                "year": 2012,
+                "month": 6
+              },
+              "location": "Montreal, QC, Canada",
+              "title": "Joined the Founderfuel startup accelerator.",
+              "what": "Joined the Founderfuel startup accelerator.",
+              "how": "Bought tickets for the first edition Montreal Startup Festival; met Real Ventures partner John Stokes. Real Ventures own and operate the Founderfuel accelerator. Our company was originally called MyCustomizer",
+              "why": "Needed to get out of the garage to grow the company. Grow as founders and business owners. Find coaches and mentors we needed advice to transform our service company in a product company.",
+              "outcomes": "Selected for Founderfuel fall cohort of 2012. Learned to raise money. Learned to pitch. Learned to create clarity for company vision and product. Learned to communicate with stakeholders at board level. Learned to execute at high speed, intensity, impact. Learned what it means to be a startup. This experience was foundational for me and my friends. Raised $275000 in convertible debt and equity. Access to coaches and mentors coming from the tech world as investors, operators, entrepreneurs",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "80ef687d-6591-482d-8acf-961be3516329",
+              "type": "transition",
+              "date": {
+                "year": 2013,
+                "month": 8
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "Sold my shares back to my partners",
+              "why": "I was ready to move on to new opportunities.",
+              "outcomes": "I decided to start a new company called Taïga Ultimate to supply custom ultimate frisbee uniforms to teams.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "212ee57d-eadc-4b33-92bb-4989e50f8a90",
+      "name": "Taïga Ultimate",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, CAN"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "212ee57d-eadc-4b33-92bb-4989e50f8a90::Founder",
+          "title": "Founder",
+          "employment_type": "",
+          "location": "Montréal, QC, CAN",
+          "start": {
+            "year": 2013,
+            "month": 9
+          },
+          "end": {
+            "year": 2018,
+            "month": 2
+          },
+          "summary_derived": "Built an e-commerce company from the ground up through its merger with BE Ultimate.",
+          "notes": "",
+          "events": [
+            {
+              "id": "10fce2b3-1b0c-4e59-aa1a-0835eb43e884",
+              "type": "transition",
+              "date": {
+                "year": 2013,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Started new role",
+              "what": "Started new role",
+              "how": "I started talking about the idea with players around me. The idea seemed to have traction, it generated enthusiasm. I recruited a co-founder.",
+              "why": "As an ultimate player myself, I sensed an opportunity. My teammates ordered often custom game jerseys from small niche brands. Prices were high, delivery was slow, there were many mistakes and errors in the orders. I figured that it was certainly possible to do much better. I figured that my expertise for mass customization (from Kickflip) would be a great asset in this adventure.",
+              "outcomes": "Taiga Ultimate was founded",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "97230985-b35d-479e-8c5c-927129b031b5",
+              "type": "research",
+              "date": {
+                "year": 2013,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Market research about Ultimate Frisbee: market size, competitors, key regions, key stake holders",
+              "what": "Market research about Ultimate Frisbee: market size, competitors, key regions, key stake holders",
+              "how": "Searched mostly the web, and reached out to people in governing bodies of the sport. I was myself a competitive ultimate frisbee player so I had an extended network already",
+              "why": "I needed to figure the size of the market, the players purchasaing habits, purchasing power. Those assumptions were important to my \"starting\" business model.",
+              "outcomes": "I made a spreadsheet model of Taiga Ultimate potential revenues and costs - a general first idea, that would set direction, expectations, and set some early targets.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "91e6f173-09db-49e5-90e9-2c28b22d7ae5",
+              "type": "project",
+              "date": {
+                "year": 2013,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "After closing a first team order I set out to find an apparel distributor and custom printing.",
+              "what": "After closing a first team order I set out to find an apparel distributor and custom printing.",
+              "how": "I focused on local suppliers. I looked online, in the phone book. I called and asked for speed and a good price.",
+              "why": "My knowledge of the apparel industry was null. I had to be able to go fast, and meet the suppliers in person on any day. I knew I had a lot to learn",
+              "outcomes": "I found a first supplier to fulfill the order. I liked the experience and figured I'd start there for the next orders, and shop for other suppliers if they could not deliver.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "ebae4011-c98a-4ca7-a1c3-6a31305018b1",
+              "type": "sales",
+              "date": {
+                "year": 2013,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "I set out to make a first sale of custom team uniforms for an ultimate frisbee team.",
+              "what": "I set out to make a first sale of custom team uniforms for an ultimate frisbee team.",
+              "how": "At games I played, I walked the pitch to meet up with other teams captains. I gave them a frisbee disc in exchange for a 5-10 minutes interview about their sport apparel needs, and what they wish existing brands were doing better. Then I offered to do their next order for them.",
+              "why": "",
+              "outcomes": "I closed a first team order for 12 custom jerseys at $350 total. And built and early order pipeline for more.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "dfe8bba6-d95f-4303-a8ca-bf5b556f5c93",
+              "type": "achievement",
+              "date": {
+                "year": 2013,
+                "month": 11
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Built an Ecommerce Website",
+              "what": "Built an Ecommerce Website",
+              "how": "I used Shopify to deploy a website showing the brand and offering team bundles.",
+              "why": "Taiga's competitors biggest weakness was their ordering process. I was complicated, full of friction, and they offered poor online experiences. I had the insight that ordering online seamlessly would be Taiga's competitive advantage.",
+              "outcomes": "I learned how to launch a Shopify store. I learned how to build a brand image.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "ad868aea-cfc0-4767-8763-113189a24a02",
+              "type": "sales",
+              "date": {
+                "year": 2013,
+                "month": 12
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Built a sales pipeline",
+              "what": "Built a sales pipeline",
+              "how": "After 2 months of in person hustle at league games and tournaments, orders started to inbound by email.",
+              "why": "Deal flow was critical for Taiga. The company was fully bootstraped. The custom nature of the product made money flow upfront and suppliers paid 45 days later. Thus we could finance growth organically.",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "0d6f1ef7-6c0f-4b73-8f5a-e97ebb037645",
+              "type": "project",
+              "date": {
+                "year": 2014,
+                "month": 3
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Secured a first tournament sponsorship.",
+              "what": "Secured a first tournament sponsorship.",
+              "how": "Answered RFPs for tournament branded items. For distribution and sales on site.",
+              "why": "This was another good opportunity to increase Taiga's visibility in the local market, and a proof that we could sell our product and services to larger organizations.",
+              "outcomes": "Great opportunity for visibility in the province, in a 1000 persons tournament (100+ teams). But many lessons learned the hard way around processes - production quality, sales and contracts negociations, keeping things simple and really listen to customers needs.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "b5795610-555a-42d7-b790-3822fdf7d90b",
+              "type": "achievement",
+              "date": {
+                "year": 2014,
+                "month": 4
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Created a full product line",
+              "what": "Created a full product line",
+              "how": "Hired apparel designer. Secured manufacturing contract with existing suppliers. Updated Taiga's website to promote this new offer. Made samples to go sell to customers. Sold a first team order for the new product line.",
+              "why": "Based on 6 months of customer feedback we decided to produce and sell our own proprietary products instead of selling only custom printing services. Customers wanted to buy ultimate frisbee specific apparel - designed by and for ultimate players. Competitors were also doing it. So I decided to go head to head in the fight.",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "2d379e33-791a-47ea-ae9c-128028ab4cb8",
+              "type": "project",
+              "date": {
+                "year": 2014,
+                "month": 6
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Delivered the first large order of Taiga products to local competitive club.",
+              "what": "Delivered the first large order of Taiga products to local competitive club.",
+              "how": "We made a demo of our new line of products, made locally in Montreal, to local competitive clubs.",
+              "why": "Taiga's full line of products gave us full control over the value chain. Giving us the ability to meet customers needs exactly, and to evolve with no third-party product restrictions. That also placed Taiga in direct competition with the legacy brands.",
+              "outcomes": "",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "d6c20465-5858-4fe0-bae6-03061ff149ab",
+              "type": "achievement",
+              "date": {
+                "year": 2014,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Programmed a Adobe Illustrator Automation Script",
+              "what": "Programmed a Adobe Illustrator Automation Script",
+              "how": "Adobe Illustrator has a Macro feature that can handle Javascript scripts. After finding the documentation for this I started coding a solution that automated the customization of jersey printing templates.",
+              "why": "Sublimation printing files are vector files made in Adobe Illustrator. It's basically full size jersey patterns with logos and colors. Each piece of sublimation printing (shorts, jerseys) are represented in the files, and each piece is a unique combo of player's name, number, size, gender, etc. Customizing each item in a team order took hours. Suppliers were charging a heavy fee for this service that was hitting our margins hard. Thus I needed to create my own solution for it.",
+              "outcomes": "After the script was implemented in our production orders workflow, we transformed a 3 hours job in a 10 minutes job and nearly eliminated manual errors. That script took a few weeks of work, but saved tens of thousands of dollars. It also cut the time to production by days. Actually increasing production capacity and thus revenue velocity which is another hundreds of thousands of dollars in value",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "e1aeba71-505c-4459-8239-1f1cf40cb0a4",
+              "type": "milestone",
+              "date": {
+                "year": 2014,
+                "month": 12
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Launched e-mail marketing campaings",
+              "what": "Launched e-mail marketing campaings",
+              "how": "Used Mailchimp in the first iteration.",
+              "why": "The customer base had grown to a few thousand persons, we realized that team purchses were actually recurring. We thus set out to add an email marketing layer to the sales engine that preceded the different seasons with tailored value propositions for the players, and team captains. Customer retention and recurring revenue were now key metrics in our business model.",
+              "outcomes": "Lifetime customer value increased by 100%",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "f515c7b2-6b18-4823-a815-07c298391889",
+              "type": "achievement",
+              "date": {
+                "year": 2015,
+                "month": 3
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Expanded Taiga product line",
+              "what": "Expanded Taiga product line",
+              "how": "During Q1 2015 we added more customization options to the products and sourced more types of items. We leveraged our relation with our local manufacturing partner to access design services, printing services, and textile manufacturers.",
+              "why": "An expanded product line met more customers needs and increased the average order size per team and player.",
+              "outcomes": "Average order size by team and by player increased by 30%",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "9e6b4858-d584-43f1-9f24-e85efa0edc66",
+              "type": "achievement",
+              "date": {
+                "year": 2015,
+                "month": 5
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Added co-founder to launch Taiga in the US market.",
+              "what": "Added co-founder to launch Taiga in the US market.",
+              "how": "Through contacts, met a young ultimate frisbee player who was looking for opportunities. Interviewed him. Offered a position as co-founder",
+              "why": "His drive and attitude were impressive. He also had deep connections in the ultimate frisbee world (being a well known elite player) and his skill set in communication would help us increase our marketing operations to grow sales. He was coming from the USA and it was now time to grow in the US market.",
+              "outcomes": "within a few days he started closing deals with US teams.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "c4919164-26c3-4b46-99bb-fb2d93cf78b1",
+              "type": "milestone",
+              "date": {
+                "year": 2015,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Taiga 2 Years Company Milestones",
+              "what": "Taiga 2 Years Company Milestones",
+              "how": "Accomplishments after 2 years",
+              "why": "from the initial business model and following refinement, we tracked key metrics to monitor the health of the company",
+              "outcomes": "We doubled revenues twice. We expanded sales to all Canada and some parts of the USA. We sold to amateur teams and competitive teams. We set and maintained a robust local supply chain. We developed, launched and made revenues from a full line of proprietary products. We made email marketing. Built a high performance Shopify store. Established brand recognition in Quebec and US North East.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "d1debc36-5e36-42ee-a956-6c762fa94afc",
+              "type": "achievement",
+              "date": {
+                "year": 2016,
+                "month": 3
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Shipped Shopify Collections Automations",
+              "what": "Shipped Shopify Collections Automations",
+              "how": "Coded product page customization with Liquid framework",
+              "why": "So far, Taiga dealt with a mix of online and offline orders. Offline orders used spreadsheets, emails, and a lot of back and forth. There was a lot of manual data input and translation, and contained more errors. Moving all orders on the online store would make the process much smarter. But we needed to improve the purchasing experience to capture individual players details with precision and standard data format. ",
+              "outcomes": "We launched the first dedicated teams collections, it allowed for each player to manage and pay their own part of the team order. It removed a heavy burden from team captains (management and financial). It unlocked up-selling and cross-selling, and it accelerated the sales cycle.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "69384f16-ce28-463a-a3fd-fcba4299f629",
+              "type": "operations",
+              "date": {
+                "year": 2016,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Implemented HUBSPOT",
+              "what": "Implemented HUBSPOT",
+              "how": "Shopped for sales and marketing solutions. Ultimately landing on Hubspot as a top candidate solution",
+              "why": "Taiga's sales and marketing tech stack had become a frankenstein monster of too many parts. With rapid growth we needed bring all those touch points into an integrated solution. In fact, our new insight was that Taiga operated a B2B2C model, where teams were making purchasing decisions as a business, but the end product was in fact acquired and benefiting individual players.",
+              "outcomes": "We increased sales velocity, and customer retention. Hubspot could be directly integrated with Shopify, and now email marketing was directly supporting sales in full sync from ecommerce signals. Customer success was also easier as now each team and captain information was captured in a proper CRM. Implementing hubspot also helped me implement a full B2B sales framework and increased deal conversion rates as we were adopting best practices.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "bdbbd40a-e081-41b0-b461-681c6b52fe0e",
+              "type": "sales",
+              "date": {
+                "year": 2017,
+                "month": 6
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "First sales in Europe",
+              "what": "First sales in Europe",
+              "how": "We directed sales and marketing efforts towards Europe. I travelled there to meet regional ultimnate frisbee governing bodies. We applied to RFPs. ",
+              "why": "To continue our growth we increased the size of the addressable market",
+              "outcomes": "We started closing team orders in Europe, in Belgium, England, and France.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "00174f7d-c858-404e-8767-fe12c025fb09",
+              "type": "milestone",
+              "date": {
+                "year": 2017,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Taiga 4 Years Company Milestones",
+              "what": "Taiga 4 Years Company Milestones",
+              "how": "Accomplishments after 2 years",
+              "why": "from the initial business model and following refinement, we tracked key metrics to monitor the health of the company",
+              "outcomes": "Sales  in Canada, USA, Europe. Market dominance in Quebec. Direct competition with top legacy ultimate frisbee brands (accomplished and improved in 4 years all what they did in 12). Doubled revenues two more times to $375000. Deployed a new custom sport apparel ordering standard leveraging Shopify and Hubspot.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "97f25cc6-3a2b-4e51-972e-a7ddcf61bfc7",
+              "type": "project",
+              "date": {
+                "year": 2017,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Experienced growth pain in Q2 & Q3 2017",
+              "what": "Experienced growth pain in Q2 & Q3 2017",
+              "how": "New problems to solve in product quality, orders fulfillment, and customer success relations",
+              "why": "Taiga grew bigger than our two heads could contain. The bigger volumes were hitting suppliers capacity limit, and just bigger numbers required more processes to maintain the same quality and accuracy standards.",
+              "outcomes": "We set out to find new partners.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "0c8506e3-6a25-43bb-82ff-259f42b4cd81",
+              "type": "transition",
+              "date": {
+                "year": 2018,
+                "month": 1
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "After the merger with BE Ultimate my role was redefined inside the combined organization",
+              "why": "The combined company needed more focused roles and responsibilities.",
+              "outcomes": "I was assigned the mission to leverage technology to maximize the company efficiency across its operations. From marketing to customer success.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "5d51ad35-852b-4900-93b0-c52d71d2a56b",
+              "type": "milestone",
+              "date": {
+                "year": 2017,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Initiated and negotiated merger with direct competitor BE Ultimate",
+              "what": "Helped originate and negotiate the merger between Taiga and direct competitor BE Ultimate, turning a long-standing competitive dynamic into a shared growth strategy.",
+              "how": "I was introduced to BE Ultimate's CEO by a mutual friend in the ultimate frisbee community. We met in person at Taiga's WeWork office and quickly recognized both the constant overlap in contracts we were competing for and our shared frustration with large legacy brands in the category. Over the following months, we discussed vision, values, and mission, negotiated terms, and ultimately signed the merger agreement. I kept the discussion moving and helped maintain confidence in the deal when my counterpart considered backing out, reinforcing the strategic case that we could achieve more together than separately.",
+              "why": "The merger was a way to stop wasting energy competing head-to-head for similar business and instead combine complementary strengths to build a stronger challenger in the market. Taiga was strong in technology, ecommerce, marketing, and sales. BE Ultimate was strong in processes, production, and sales. We also shared similar values, mission, vision, and a similar data structure, which reduced integration risk.",
+              "outcomes": "The deal created the foundation for the combined company, which later increased revenue, gained market share, improved profitability, and achieved category dominance in Quebec.",
+              "visibility": "public",
+              "tags": [
+                "merger",
+                "strategy",
+                "negotiation",
+                "leadership",
+                "founder"
+              ],
+              "metrics": [
+                "merger talks began in September 2017",
+                "$1.2M combined annual sales at merger"
+              ],
+              "stakeholders": [
+                "BE Ultimate CEO",
+                "mutual industry contact"
+              ],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "interview_refined_from_memory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4de1a2eb-7a03-4021-8c63-1de1439e67ab",
+      "name": "BE Ultimate",
+      "aliases": [],
+      "locations": [
+        "Remote (Canada)"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "4de1a2eb-7a03-4021-8c63-1de1439e67ab::Co-owner & Director of E-Commerce",
+          "title": "Co-owner & Director of E-Commerce",
+          "employment_type": "",
+          "location": "Remote (Canada)",
+          "start": {
+            "year": 2018,
+            "month": 2
+          },
+          "end": {
+            "year": 2020,
+            "month": 9
+          },
+          "summary_derived": "Post-merger, my role was to increase the company's profitability by leveraging technology. BE Ultimate became a leading brand in the category.",
+          "notes": "",
+          "events": [
+            {
+              "id": "1b6be6ae-2b83-4e5e-bfa5-15d24e9bd201",
+              "type": "transition",
+              "date": {
+                "year": 2018,
+                "month": 2
+              },
+              "location": "Remote (Canada)",
+              "title": "Started post-merger role as Co-owner & Director of E-Commerce",
+              "what": "Started my post-merger role as Co-owner and Director of E-Commerce in the combined company, with a mandate to improve profitability through technology, ecommerce, and cross-functional operating efficiency.",
+              "how": "After the merger closed, my responsibilities shifted from founder-level generalism at Taiga to a more focused role inside the combined business. I took ownership across technology, ecommerce, marketing, sales enablement, customer success, and the data flows connecting those functions.",
+              "why": "The merged company needed clearer role definitions so each leader could focus on the areas where they could create the most leverage. My role was designed to use Taiga's strengths in technology, ecommerce, and commercial operations to help the new entity scale efficiently.",
+              "outcomes": "This role set the stage for the post-merger stabilization work, ecommerce consolidation planning, and the later automation initiatives that improved margins, reduced errors, and increased revenue per employee.",
+              "visibility": "public",
+              "tags": [
+                "transition",
+                "post-merger",
+                "leadership",
+                "ecommerce"
+              ],
+              "metrics": [],
+              "stakeholders": [
+                "CEO/co-owner",
+                "sales team",
+                "marketing",
+                "customer success",
+                "production"
+              ],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "interview_refined_from_memory"
+            },
+            {
+              "id": "cdd5fba5-fc6e-45b7-bf3a-497221de27ab",
+              "type": "sales",
+              "date": {
+                "year": 2019,
+                "month": 1
+              },
+              "location": "",
+              "title": "Championed B Corp certification as a long-term brand and operating commitment",
+              "what": "Pushed BE Ultimate to pursue B Corp certification and framed it as a deeper, more durable response to the social and brand expectations emerging at the time.",
+              "how": "During the Black Lives Matter moment, many brands were issuing public solidarity statements. I argued that BE Ultimate should take a broader and more durable approach by committing to the B Corp framework rather than treating the moment as a short-term PR exercise. I made the business case directly to the CEO, who was the key decision-maker because of the financial and legal implications. After approval, I helped evaluate B Corp consultants and worked with marketing to shape the brand messaging.",
+              "why": "I believed B Corp created long-term brand value because it tied the company to concrete social and environmental standards instead of temporary public positioning. It also provided a framework to structure internal processes around impact, which I saw as more substantive than symbolic responses alone.",
+              "outcomes": "BE Ultimate achieved B Corp certification in 2021. The move strengthened brand trust and differentiation, especially because BE Ultimate was the only company in its industry to make that commitment. During the pandemic, the brand continued to build strength while others stagnated, and it emerged in a stronger position when the sport resumed.",
+              "visibility": "public",
+              "tags": [
+                "brand-strategy",
+                "values",
+                "executive-influence",
+                "b-corp"
+              ],
+              "metrics": [
+                "B Corp certified in 2021",
+                "only company in the industry to make that move"
+              ],
+              "stakeholders": [
+                "CEO",
+                "marketing team",
+                "B Corp consultants"
+              ],
+              "tools": [
+                "B Corp framework"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "interview_refined_from_memory"
+            },
+            {
+              "id": "bf5f49e0-ed8b-4431-825a-1085a33446ff",
+              "type": "operations",
+              "date": {
+                "year": 2019,
+                "month": 2
+              },
+              "location": "Remote (Canada)",
+              "title": "Led post-merger operating alignment and stabilization across sales, ecommerce, production, and post-sales",
+              "what": "Helped stabilize the newly merged company by integrating two previously separate teams and building a shared operating model across sales, ecommerce, marketing, production coordination, and customer success.",
+              "how": "In the first two months after the merger, I focused on change management: keeping communication clear and frequent, tracking issues as they emerged during business-as-usual operations, and helping teammates resolve incompatible processes quickly. I negotiated with the CEO/co-owner to establish a framework for setting goals and tracking success across the new entity. I then aligned marketing, sales, production, and post-sales around standardized buyer personas, objection handling, and a more consistent sales process. That planning phase shaped the next 12 months of execution, including CRM rollout, ecommerce migration planning, and end-to-end order data improvements.",
+              "why": "The merger created immediate operational risk because two teams with different habits, systems, and ways of working had to function as one company without losing revenue or momentum. The goal was to preserve trust, reduce friction, and create a durable operating foundation for growth and profitability.",
+              "outcomes": "In the first year, revenue increased about 15 percent and market share grew by about 10 percent, outperforming what the two businesses would likely have achieved separately. The company achieved category dominance in Quebec, and profitability improved by leveraging BE Ultimate's lower-cost manufacturing platform. I managed 4 people across tech, marketing, sales, and customer success within a 6-person cross-company team.",
+              "visibility": "public",
+              "tags": [
+                "post-merger",
+                "change-management",
+                "operations",
+                "leadership",
+                "sales-ops"
+              ],
+              "metrics": [
+                "15% revenue growth in the first year",
+                "10% market share growth in the first year",
+                "achieved category dominance in Quebec",
+                "managed 4 people",
+                "6-person integration team"
+              ],
+              "stakeholders": [
+                "CEO/co-owner",
+                "marketing",
+                "sales",
+                "production",
+                "customer success",
+                "tech team"
+              ],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "interview_refined_from_memory"
+            },
+            {
+              "id": "f4cb177d-a58b-439f-b11e-bb13a510ecdd",
+              "type": "operations",
+              "date": {
+                "year": 2019,
+                "month": 11
+              },
+              "location": "Remote (Canada)",
+              "title": "Redesigned team ordering workflow into self-serve commerce and automated production handoff",
+              "what": "Redesigned BE Ultimate's custom team ordering workflow by connecting HubSpot, Shopify, and Google Sheets so buyers could move from sales commitment to player-level ordering and supplier-ready production handoff with minimal internal manual work.",
+              "how": "Built the integration end-to-end myself using Google Apps Script plus HubSpot and Shopify API work. I customized HubSpot deals to reflect the catalog and opportunity details, modified Shopify product pages to capture player-specific customization like name and number, generated dedicated team collections, and automated the creation of production-ready Google Sheets order documents for the manufacturing partner. Sales reps could trigger collection creation from a control spreadsheet, reducing setup time from more than an hour to minutes.",
+              "why": "The prior workflow depended on email coordination, captain-managed spreadsheets, manual retranscription, and internal double-checking across sales and production. That created delays, high error risk, friction for buyers, and unnecessary operational overhead. The goal was to let sales focus on closing commitments, let production focus on supplier quality, and make the ordering experience the best in the market.",
+              "outcomes": "By 2020, the workflow supported about $1M in annual sales and was growing quickly. It became a major sales differentiator because BE Ultimate could credibly pitch the best ordering experience in the market. The automation reduced errors by more than 80 percent, cut team-collection setup from more than an hour to minutes, improved margins by removing BE-side transcription risk, and directly drove roughly 3x higher revenue per employee. Within about two years, competitors started offering a similar purchasing experience.",
+              "visibility": "public",
+              "tags": [
+                "ecommerce",
+                "automation",
+                "operations",
+                "sales-enablement",
+                "shopify",
+                "hubspot"
+              ],
+              "metrics": [
+                "$1M annual sales supported by 2020",
+                ">80% error reduction",
+                "setup time reduced from 1 hour+ to minutes",
+                "~3x revenue per employee"
+              ],
+              "stakeholders": [
+                "CEO",
+                "sales team",
+                "production manager",
+                "manufacturing partner",
+                "team captains",
+                "individual players"
+              ],
+              "tools": [
+                "HubSpot",
+                "Shopify",
+                "Google Sheets",
+                "Google Apps Script",
+                "HubSpot API",
+                "Shopify API"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "interview_refined_from_memory"
+            },
+            {
+              "id": "ee762f7a-6506-4f7c-816b-53ea7c8e5c1b",
+              "type": "transition",
+              "date": {
+                "year": 2020,
+                "month": 9
+              },
+              "location": "Remote (Canada)",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "I met with the CEO. Discussed that I wanted to move on to new opportunities. I sold my shares back to BE Ultimate.",
+              "why": "I felt like I needed to work in Clean tech, or Climate tech. After my kids were born, I developed a sort of eco-anxiety that I needed to do something about in the way that I could entrepreneurship and startups.",
+              "outcomes": "I made my way to Alterum,",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0fa0950-7d70-4ada-a37b-cd8b078f210a",
+      "name": "Alterum",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, CAN",
+        "Remote (Canada)",
+        "Montreal, QC, Canada"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "e0fa0950-7d70-4ada-a37b-cd8b078f210a::Product Lead",
+          "title": "Product Lead",
+          "employment_type": "",
+          "location": "Remote (Canada)",
+          "start": {
+            "year": 2020,
+            "month": 10
+          },
+          "end": {
+            "year": 2021,
+            "month": 6
+          },
+          "summary_derived": "Repositioned a technically complex municipal energy simulation product toward a more viable wedge by turning consultant-style outputs into a more interactive decision tool and aligning the product with ESCO-led municipal decarbonization sales and planning workflows.",
+          "notes": "",
+          "events": [
+            {
+              "id": "f3642ab3-bf2a-456d-99d5-6e9d97d1ce84",
+              "type": "transition",
+              "date": {
+                "year": 2020,
+                "month": 10
+              },
+              "location": "Remote (Canada)",
+              "title": "Started new role",
+              "what": "Started new role",
+              "how": "I researched clean teach and climate tech Quebec based VC portfolios. I called founders and asked if they needed help with their product strategy and go to market.",
+              "why": "After my kids were born, I decided I would pledge my career to make the world more sustainable.",
+              "outcomes": "I met David Beauvais, CEO of Alterum, we started working together.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "b097a4d4-2c2e-4bda-a0fa-b4aa65a54c1d",
+              "type": "hiring",
+              "date": {
+                "year": 2021,
+                "month": 1
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Hired a senior web designer and rebuilt the product in 3 months",
+              "what": "Hired a senior web designer and helped rebuild the product in 3 months around a more usable decarbonization-planning workflow",
+              "how": "The original application was geared toward a highly specialized energy-grid-planning audience. Its vocabulary centered on grid congestion and energy planning rather than decarbonization, and the experience behaved more like tooling for a consulting shop that output reports than something a broader buyer could interact with. The core output was a large Sankey diagram built from Canadian energy-use databases sliced by geography and end use, but the visualization was too dense for most users to interpret or act on at a glance. I helped recruit a senior web designer on a part-time contract and worked with the development team to rebuild the experience so users could unpack the diagram more explicitly, navigate the components, adjust them based on available information, and understand how those changes affected the broader energy and emissions picture.",
+              "why": "The underlying simulation engine could generate in minutes a municipality-level energy and emissions picture that would otherwise take consultants months and cost thousands of dollars, but the product was optimized for the wrong user and the wrong workflow. We needed to turn a static, engineering-centric report experience into a more modular, dynamic, and informative product that could support municipal decarbonization conversations and later fit a commercial wedge with ESCOs.",
+              "outcomes": "Within 3 months, with strong collaboration from the development team, we shipped a substantially rebuilt product that turned dense consultant-style output into a more interactive decision tool. The new version made it easier to unpack energy and emissions dimensions, identify where to focus first, and support a more commercially viable story. We were then able to demo the new product and set up a pilot project with a Montreal-based Energy Service Company.",
+              "visibility": "public",
+              "tags": [
+                "product-rebuild",
+                "ux",
+                "climate-tech",
+                "decision-support",
+                "positioning"
+              ],
+              "metrics": [
+                "rebuilt in 3 months",
+                "20 hour/week senior web designer contract"
+              ],
+              "stakeholders": [
+                "senior web designer",
+                "development team",
+                "ESCO design partner"
+              ],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "a15515e9-813d-4e30-be64-c6f5082485c6",
+              "type": "sales",
+              "date": {
+                "year": 2021,
+                "month": 5
+              },
+              "location": "Montreal, QC, Canada",
+              "title": "Prospected, nurtured, structured, priced, and signed a pilot project with a Montreal-based Energy Service Company",
+              "what": "Found a design-partner ESCO and co-shaped a municipal decarbonization sales offer around Alterum's product outputs",
+              "how": "I found a champion in the ESCO, the VP of Innovation, and collaborated with him to define what success would mean for both companies. We held working sessions to design an offer for municipalities and map it directly to Alterum's product capabilities. Instead of selling directly to municipalities, which had long cycles and were not a viable wedge, we repositioned Alterum as a tool that could help ESCOs accelerate the early stages of their municipal decarbonization sales motion. The product could generate a municipality-level picture of energy use and emissions in minutes, then help the ESCO turn that output into a decarbonization plan and a slide deck embedded in its sales materials. For example, the ESCO could show that 60 percent of a municipality's emissions came from individual cars, estimate that meeting long-term climate targets would require electrifying 10,000 vehicles, and then propose a program involving citizen adoption, charging infrastructure, and grid coordination. That created a bridge from product output to a potential multi-million-dollar implementation contract.",
+              "why": "We needed real market validation and a repeatable commercial wedge. Selling to municipalities directly was too slow and risky. ESCOs already had the relationships, the service delivery model, and the commercial incentive to use Alterum as a consultative hook for broader decarbonization planning work. For the ESCO, success meant opening a new service-line revenue stream. For Alterum, success meant landing a reference customer, proving a repeatable wedge, and accelerating product-market fit.",
+              "outcomes": "Secured a design-partner relationship, set up a pilot with a Montreal-based ESCO, and validated a much stronger market position for the product as a sales-enablement and planning tool rather than a direct municipal software sale. The ESCO was on track to close three municipal offerings using this approach, with the expectation of cutting pre-sales cost by thousands of dollars and reducing time to action by months.",
+              "visibility": "public",
+              "tags": [
+                "design-partner",
+                "sales-enablement",
+                "go-to-market",
+                "climate-tech",
+                "positioning",
+                "municipal-decarbonization"
+              ],
+              "metrics": [
+                "3 municipal offerings on track",
+                "thousands of dollars saved in pre-sales cost",
+                "months faster time to action"
+              ],
+              "stakeholders": [
+                "VP of Innovation at design-partner ESCO",
+                "municipal leads",
+                "Alterum CEO"
+              ],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "2556e642-428a-4450-b1c2-96850676fceb",
+              "type": "transition",
+              "date": {
+                "year": 2021,
+                "month": 6
+              },
+              "location": "Remote (Canada)",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "After a discussion with the founder and CEO, we decided to go separate ways",
+              "why": "Despite my best efforts, I could not convince the CEO to stay committed to the ESCO wedge and the product repositioning. He turned the effort back into an engineering contest, which I believed we were unlikely to win against established engineering firms.",
+              "outcomes": "The ESCO pilot fell apart as the strategic commitment weakened, and the company closed about 10 months later. The experience reinforced how important it is to align product positioning, company strategy, and commercial execution rather than relying only on technical strength.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "fc69d6eb-f358-4446-9ef8-0cb50ad85ff1",
+              "type": "fundraising",
+              "date": {
+                "year": 2021,
+                "month": 6
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Raised $350,000 from a government program",
+              "what": "Raised $350,000 from a government program",
+              "how": "Cold called the Center of Excellence in Energy Efficiency (CEEE) to pitch Alterum; followed their process and presented the project, aligning its outcomes with CEEE objectives.",
+              "why": "The venture money track did not get much traction at that time and we needed cashflow to continue pursuing our product market-fit.",
+              "outcomes": "Secured and deposited funds, providing more financial runway and increased visibility within the Province Clean Tech Ecosystem due to the CEEE being a respected program.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6b936af-ab4f-44a3-bc53-3e39f114fb21",
+      "name": "Heyday by Hootsuite",
+      "aliases": [],
+      "locations": [
+        "Remote (Canada)"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "d6b936af-ab4f-44a3-bc53-3e39f114fb21::Senior Product Manager",
+          "title": "Senior Product Manager",
+          "employment_type": "",
+          "location": "Remote (Canada)",
+          "start": {
+            "year": 2022,
+            "month": 3
+          },
+          "end": {
+            "year": 2022,
+            "month": 11
+          },
+          "summary_derived": "Explored how pre-LLM conversational AI could drive ecommerce revenue rather than only customer-support savings, and shaped internal tooling initiatives to speed script creation, customer onboarding, and product experimentation by moving conversation designers beyond spreadsheet-driven workflows.",
+          "notes": "Reported to the VP of Product inside a roughly 50-person product and technology organization that included data scientists and AI researchers. There were about 5 PMs total; I was the only PM on my surface and operated with high autonomy, owning initiatives end to end and asking for help when blocked.",
+          "events": [
+            {
+              "id": "8d8efac6-34c2-4814-aa75-e68ac8e11c4a",
+              "type": "transition",
+              "date": {
+                "year": 2022,
+                "month": 6
+              },
+              "location": "Remote (Canada)",
+              "title": "Started as Senior Product Manager",
+              "what": "Started as Senior Product Manager",
+              "how": "I sent a resume, went through interviews, and made a home assignment during the interview process. ",
+              "why": "My goal was to work in a solid product team to effectively make the jump from \"founder\" to product manager. HEyday clients were e-commerce brands, something I was expert of, having owned my own e-commerce brand for several years. Following my experience at Alterum, I knew I needed to perfect the PM craft and needed managers who'd teach, coach, and help me grow professionnally.",
+              "outcomes": "I was hired. My home assignment hit the bulls eye vs their current product vision and strategy. The hiring manager even asked me if I had interviewed people at Heyday for my assignment (i did not). My product vision and insights were outstanding.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "career-source-interview-heyday-conversation-design-tooling",
+              "type": "achievement",
+              "date": {
+                "year": 2022,
+                "month": 9
+              },
+              "location": "Remote (Canada)",
+              "title": "Shaped an internal tooling concept to turn sales-chatbot scripting into a faster, more scalable product workflow",
+              "what": "Explored, validated, and shaped a new product direction for Heyday's ecommerce chatbots: using them to drive sales rather than positioning them mainly as customer-support cost savers. To make that possible, I proposed improving the internal tooling used to create sales scripts so the conversation-design team could iterate faster and eventually let ecommerce managers supply more of their own content.",
+              "how": "This was before ChatGPT and before modern LLM-based chat experiences. At the time, the chatbot logic relied largely on predefined conversation trees, with AI mainly acting as a routing layer that matched user questions to prewritten answers. Three internal conversation designers maintained those flows using complicated spreadsheet templates. Any modification to the spreadsheet required corresponding changes to the parsing logic that translated spreadsheet content into the script format the application actually used, so the spreadsheet-to-software layer became a painful mix of manual work and scripting work. I identified this as a key bottleneck: they were doing essential work, but the tooling made exploration and innovation slow. I interviewed about 10 customers directly, ranging from large enterprise brands like Decathlon to smaller shops like Quilicot Bikes, to understand what sales generation through chat actually meant in their context. The most common use cases were product discovery and guided selling, but the broader opportunity also included upsell, abandoned-cart rescue, and bundle recommendation. I partnered with a UX researcher, a web designer, the conversation-design team, a technical lead, and a front-end developer, and used Confluence, Jira, and Figma to align the concept and track the work. My proposed proof of concept was to replicate the few existing sales scripts inside improved tooling, then modify them and compare the speed of the feedback loop against the traditional spreadsheet-driven workflow.",
+              "why": "If we could improve the script-authoring workflow first, we could unlock two advantages at once: increase the pace of experimentation around sales-generating chatbot experiences, and reposition conversation designers toward a more leveraged \"conversation architect\" role while moving some content entry closer to the ecommerce managers themselves. I also saw clear business upside in faster onboarding, faster time to value, and lower sales costs. More broadly, I felt the old setup was making us offer a static solution in a problem space that should have been highly creative and fast-moving. For external success, I would have looked at the volume of sales-type conversations in chatbot activity logs and how many of those conversations led to add-to-cart CTA clicks. For internal success, I would have tracked the number of conversations designed per week before and after the tooling change, because with a constant team size that would indicate higher output and should cascade into improvements in onboarding cost and time.",
+              "outcomes": "By the time I was laid off in Hootsuite's restructuring, we were on track to ship a major internal feature and begin testing it. The work sharpened my ability to connect user research, internal workflow bottlenecks, AI constraints, and tooling strategy into one coherent product direction. It also clarified an important change-management lesson for me: some conversation designers initially worried the project might take their jobs away, and I came away feeling I could have done a better job early on explaining how the tooling could upgrade their role rather than replace it. During my first three months at Heyday, I also ramped by following people across the company in meetings, learning the business and customers quickly, and becoming a product subject matter expert on the Heyday domain.",
+              "visibility": "public",
+              "tags": [
+                "ecommerce",
+                "conversational-ai",
+                "internal-tooling",
+                "workflow-design",
+                "product-strategy",
+                "user-research"
+              ],
+              "metrics": [
+                "3 internal conversation designers",
+                "~10 customer interviews",
+                "planned external metric: sales-type conversation volume",
+                "planned external metric: add-to-cart CTA clicks from sales-type conversations",
+                "planned internal metric: conversations designed per week before vs after tooling deployment"
+              ],
+              "stakeholders": [
+                "UX researcher",
+                "web designer",
+                "conversation designers",
+                "technical team lead",
+                "front-end developer",
+                "ecommerce customers"
+              ],
+              "tools": [
+                "Confluence",
+                "Jira",
+                "Figma"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-heyday-account-onboarding-tooling",
+              "type": "achievement",
+              "date": {
+                "year": 2022,
+                "month": 8
+              },
+              "location": "Remote (Canada)",
+              "title": "Helped ship internal account-setup tooling and a data migration to reduce onboarding cost",
+              "what": "Worked with the team to reduce the cost and friction of creating and setting up new customer accounts by replacing a workflow that depended on senior developers for a low-value but operationally necessary task.",
+              "how": "New account creation and setup required senior developer time, even though the underlying problem was already a solved internet pattern and did not deserve that level of engineering attention. I worked with two backend engineers to review the account data structure, standardize it, plan a major migration, and ship improved internal tooling in about one month. As part of the work, we also introduced clearer affordances for customer users so they could navigate more easily between sandbox and production accounts.",
+              "why": "The old workflow was expensive in time and attention because senior engineers were spending energy on account provisioning instead of higher-value product and technical problems. We needed a more standardized and scalable setup path to cut onboarding cost, accelerate time to value, and keep engineering focus on harder work.",
+              "outcomes": "We successfully shipped the migration and the new tooling in about one month. Account setup became less dependent on senior developer intervention, onboarding costs went down, and customer users gained a clearer experience when moving between sandbox and production environments.",
+              "visibility": "public",
+              "tags": [
+                "internal-tooling",
+                "onboarding",
+                "data-migration",
+                "ecommerce",
+                "product-operations"
+              ],
+              "metrics": [
+                "2 backend engineers",
+                "shipped in about 1 month"
+              ],
+              "stakeholders": [
+                "2 backend engineers",
+                "customer users",
+                "internal onboarding teams"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-heyday-roadmap-and-delivery-operating-model",
+              "type": "operations",
+              "date": {
+                "year": 2022,
+                "month": 7
+              },
+              "location": "Remote (Canada)",
+              "title": "Owned quarterly roadmap updates and a structured initiative-to-PRD delivery process for my product surface",
+              "what": "Managed my surface through a quarterly roadmap and a repeatable operating model for turning ambiguous initiatives into development-ready product work and customer-facing rollout plans.",
+              "how": "Each quarter, I updated a high-level roadmap for my surface in collaboration with the VP of Product. That roadmap was used in sales calls and customer-success QBRs with large accounts, and my progress was tracked against it. Operationally, I created an initial pitch document for each initiative, something close to an initiative overview, and explored it early with a development team lead to surface hidden risks, technical limits, and implementation challenges. Once the initiative was pressure-tested, I split it into self-contained problems to solve and pieces to ship, then turned those into PRDs that could be added to upcoming development cycles based on available resources. During delivery, I partnered with the product marketing person to prepare rollout documentation for the customer success team and for clients. The motion was much more meeting-and-slides based than web- or email-based.",
+              "why": "The work needed a structure that kept strategy, engineering reality, and customer communication connected. A simple roadmap was not enough on its own; we also needed a disciplined way to de-risk initiatives early, scope them into shippable parts, and prepare the organization to support them once released.",
+              "outcomes": "This operating model gave me a practical way to own my surface end to end with high autonomy while staying aligned with leadership, engineering constraints, and the needs of large customer accounts. It strengthened my ability to connect roadmap strategy, technical risk review, PRD quality, and rollout readiness into one coherent product-management motion.",
+              "visibility": "public",
+              "tags": [
+                "roadmap",
+                "prds",
+                "product-operations",
+                "technical-discovery",
+                "rollout",
+                "enterprise-accounts"
+              ],
+              "metrics": [
+                "quarterly roadmap updates",
+                "used in sales calls and customer-success QBRs"
+              ],
+              "stakeholders": [
+                "VP of Product",
+                "development team lead",
+                "product marketing",
+                "customer success team",
+                "large customer accounts"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "80bbddc5-a912-4064-9862-a25fd91582da",
+              "type": "transition",
+              "date": {
+                "year": 2022,
+                "month": 11
+              },
+              "location": "Remote (Canada)",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "I lost my job in Hootsuite's second round of layoffs in the same year.",
+              "why": "Hootsuite facing market headwinds, and having invested a lot in its IPO preparation needed to cut expenses aggressively.",
+              "outcomes": "I learned a lot about working in a fully staffed product team. I learned a lot about the importance of development velocity (it reduces a lot the cost of mistakes and enable actual iterations). I learned a lot about the actual cost of technical debt. I learned a lot about the motions of preparing, developing, and deploying features. The full cycle from idea to customer success.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6b9c9b0-bf91-41d6-8327-ef1347a67779",
+      "name": "Audette Analytics",
+      "aliases": [],
+      "locations": [
+        "Remote (Canada)",
+        "Canada"
+      ],
+      "notes": "",
+      "roles": [
+        {
+          "id": "b6b9c9b0-bf91-41d6-8327-ef1347a67779::Senior Product Manager",
+          "title": "Senior Product Manager",
+          "employment_type": "",
+          "location": "Remote (Canada)",
+          "start": {
+            "year": 2023,
+            "month": 2
+          },
+          "end": {
+            "year": 2025,
+            "month": 9
+          },
+          "summary_derived": "Led product strategy and execution from prototype to commercial SaaS platform adopted by enterprise real estate portfolios. Owned the core decision-support product, connecting energy, carbon, and financial data into workflows used for capital planning.",
+          "notes": "",
+          "events": [
+            {
+              "id": "ab9499b7-d20b-448a-a21f-6e550e886e68",
+              "type": "transition",
+              "date": {
+                "year": 2023,
+                "month": 2
+              },
+              "location": "Remote (Canada)",
+              "title": "Started new role",
+              "what": "Started new role",
+              "how": "I contacted Audette's then new director of product (Marc Sykes) directly on LinkedIn. I said that I tried to build a similar company at Alterum and that I would be great to exchange notes over e-coffee. We did, and after sharing our experiences, he fast tracked me to the interview process.",
+              "why": "I loved that Audette's business model was already more specific -- targeting Real Estate Asset Managers. The lack of a clear core customer was the failure point of Alterum. Thus, I had the opportunity of building directly on top of recent experience, in the energy transition sector, which was directly aligned with my goals.",
+              "outcomes": "I was hired as the first product manager at Audette. I immediately started having impact by helping tech teams to focus on a narrower set of problems, cutting noise in the GTM strategy by clarifying the focus on the core customers, and building a product narrative tying this all together.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "be419b4d-d2a0-45af-9d1d-96d3c2e33992",
+              "type": "research",
+              "date": {
+                "year": 2023,
+                "month": 3
+              },
+              "location": "Canada",
+              "title": "Conducted customer and prospect research",
+              "what": "Conducted customer and prospect research",
+              "how": "Interviewed more than half customers and prospects, watched multiple sales calls and customer success calls, and aligned with internal solution engineers and CSMs to figure out customer friction points and priorities.",
+              "why": "The team had an unclear ICP and weak positioning. The goal of the research was to narrow the market and clarify where the product created the most value.",
+              "outcomes": "Reduced the possible markets to one core segment: commercial real estate portfolio managers. Eliminated ESCOs, utilities, and governments as primary targets. Clarified the product positioning as an asset decarbonization capex planning tool using AI energy modeling to bridge sustainability and finance teams.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "CPAINCHAUD_Product_052226.pdf"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "bf438d0e-a209-4b7b-85c6-702c7e6c6dad",
+              "type": "project",
+              "date": {
+                "year": 2023,
+                "month": 4
+              },
+              "location": "Remote (Canada)",
+              "title": "Self-onboarded, formed product vision & strategy, identified core customers, developed positioning & value proposition, and collaborated with GTM.",
+              "what": "Self-onboarded, formed product vision & strategy, identified core customers, developed positioning & value proposition, and collaborated with GTM.",
+              "how": "Used Figma to create visual stories explaining key features; supported with written documents and a spreadsheet model to support hypotheses.",
+              "why": "When I arrived at Audette, there were 4 proof-of-concept apps, targeting different people. However, those were mostly dashboards and BI tools sitting on top of a massive amount of energy modeling data. I realized that we needed a lot more clarity and focus to more forward and FAST. Because at that moment we felt idle and moving mostly laterally. I needed to change that state of affairs",
+              "outcomes": "Created feature sketches and a small prototype using Notion tables, which set a clear direction and momentum for the next six months",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "07a217ea-280e-4983-9cfe-9b8d8e6c5311",
+              "type": "leadership",
+              "date": {
+                "year": 2023,
+                "month": 5
+              },
+              "location": "Remote (Canada)",
+              "title": "Coached a junior product manager",
+              "what": "Coached a junior product manager",
+              "how": "Helped him frame problems, create clear scope for developers, and supported him in shipping energy calibration and an AI image analysis feature.",
+              "why": "My boss at the time, the director of product, asked me to do that to increase the team's output.",
+              "outcomes": "His autonomy grew, and he had more space to make mistakes. Unfortunately, he was laid off during the summer due to team downsizing.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "2eb17137-52c4-4206-a218-7a324dedb264",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 5
+              },
+              "location": "Remote (Canada)",
+              "title": "Initiated \"The Swarm\" to unlock self-serve energy modeling on demand",
+              "what": "Initiated \"The Swarm\" to unlock self-serve energy modeling on demand",
+              "how": "Recruited allies in the dev team, submitted a proposal to executives, prepared \"The Swarm\" documentation for 14 ICs, and launched the event",
+              "why": "To shake things up, cement a new product philosophy, inject momentum, show what it feels like to ship with intent, and actually fix a critical product flaw. Our core tech advantage (0$ marginal cost energy modeling) was inaccessible to customers, leading to a black-box that couldn't be trusted. We needed to make the Audette platform iterative and transparent as fast as possible.",
+              "outcomes": "Produced a working prototype by the end of the sprint, then spent 1.5 months refining it. By the end of August, we were onboarding 2 customers and modeling thousands of buildings energy.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "6d6a12dd-1aad-4597-ad80-9ad4587b0ec1",
+              "type": "hiring",
+              "date": {
+                "year": 2023,
+                "month": 6
+              },
+              "location": "Remote (Canada)",
+              "title": "Found and recruited a Web Designer to improve UI/UX",
+              "what": "Found and recruited a Web Designer to improve UI/UX",
+              "how": "Looked in my network for candidates and extended an offer to a former colleague from Heyday",
+              "why": "UI/UX had been terrible, hindering product usability; convinced executives of the need for this expertise",
+              "outcomes": "Front-end development became easier and faster; programmers could focus on code. The app rapidly improved in UX/UI, receiving consistent positive feedback within months on its appearance and ease of use.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "ec485ff5-928c-4e88-8820-e2e7cab9b034",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 7
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped \"Import buildings\" feature.",
+              "what": "Shipped \"Import buildings\" feature.",
+              "how": "Researched how customer data was structured. Made a business case evaluation of Build vs Buy a CSV import tool. Decided to buy Dromo. I researched and created a short list for those tools. Then we created a war room and set a dedicated team to work on performance issues that questioned many architectural decisions.",
+              "why": "The \"Import buildings\" feature was critical for timely customer onboarding and triggered energy modeling. However, modeling was slow, timed out, and crashed, hindering customer onboarding and questioning architectural decisions. Modeling needed to be fast.",
+              "outcomes": "The dedicated team succeeded in early September, resolving performance issues just in time to onboard new and important core customers.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "24af44d8-18b1-4de2-a620-f812fbdbd866",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 8
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped a new Feature called \"Portfolio\"",
+              "what": "Shipped a new Feature called \"Portfolio\"",
+              "how": "Collaborated with executives, sales, and customer success managers to interview clients and prospects; identified key problems around decarbonization planning and cost assessment; outlined problems and created high-fidelity mockups with the designer for development teams.",
+              "why": "Commercial Real Estate Asset Managers could use this to form strategies and get clear direction on where to look for capital investments best outcomes. This allowed decarbonization to move from \"nice to have\" to providing outsized returns.",
+              "outcomes": "Portfolio became the key element enabling sales to get into meetings with key sustainability stakeholders at ICPs prospects. Pipeline started growing.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "interview-derived-audette-pilot-sales-motion",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 9
+              },
+              "location": "Remote (Canada)",
+              "title": "Scaled Audette's pilot-driven enterprise sales motion",
+              "what": "Scaled Audette's pilot-driven enterprise sales motion by making prospect onboarding and modeling operationally viable.",
+              "how": "Required asset import flows and self-serve automated modeling so new building sets could be added and modeled in minutes instead of taking days of work from a large internal team.",
+              "why": "Onboarding was too labor-intensive and monopolized time and skills from ICs who were supposed to contribute to the R&D team.",
+              "outcomes": "By Q3 2023, the new system was in place. Customer Success and Solution Engineering could onboard and model new building sets in minutes, sharply reducing customer time-to-value. This enabled a scalable pilot motion that helped grow Audette from about $300k to $1M ARR, convert about 20 enterprise pilots, and land 6 large enterprise customers.",
+              "visibility": "public",
+              "tags": [
+                "go-to-market",
+                "onboarding",
+                "enterprise",
+                "scaling"
+              ],
+              "metrics": [
+                "$300k to $1M ARR",
+                "~20 enterprise pilots",
+                "6 enterprise customers",
+                "minutes instead of days onboarding/modeling"
+              ],
+              "stakeholders": [
+                "Customer Success",
+                "Solution Engineers"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "c283acf2-b76d-471b-b2bd-7431e4dae30d",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 11
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped Equipment Modeling",
+              "what": "Shipped Equipment Modeling",
+              "how": "Included extensive business logic to handle equipment topology.  It involved communication, documentation, and motivation because the team had to work around a lot of tech debt and the modeling engine at that moment was still sometimes a black box.",
+              "why": "To enable users to input building equipment topology, which, combined with calibrated energy data, would generate a real-world financial business case for building system upgrades to decarbonize and improve energy efficiency.",
+              "outcomes": "Shipped in BETA by the end of the quarter. Users could now import addresses, add energy consumption data, and add equipment systems data, leading to a full business case for building retrofits and economic benefits.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "c468ea13-551b-4b7a-9706-96a94e7896e8",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 11
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped a feature called Equipment Input Wizard",
+              "what": "Shipped a feature called Equipment Input Wizard",
+              "how": "Teamed up with building science and modeling team to frame the problem, map inputs, business logic, expected outputs, and design benchmark testing. Then teamed up with customer success team and designer to frame user experience. Finally, shaped the feature and handed a PRD to the development team. This was the front-end part integration to the backend modeling improvement. Both a logic and UI/UX design puzzle. Created extensive documentation and Loom videos for internal GTM team training.",
+              "why": "Buildings equipment topology was a key input in the modeling engine and critical for solid business cases. It was also a loudly asked feature by customers who needed to see this to believe the system.",
+              "outcomes": "Before the end of the quarter, users could input equipment topology and get a new and improved energy model, and a much more credible decarbonization business plan for their buildings.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "interview-derived-audette-release-communication",
+              "type": "operations",
+              "date": {
+                "year": 2023,
+                "month": 2
+              },
+              "location": "Remote (Canada)",
+              "title": "Owned release communication for internal teams and enterprise GTM",
+              "what": "Owned release communication at Audette by writing the internal release notes for every product release and helping shape external release communication for customers.",
+              "how": "For each release, I wrote the internal release notes to keep teams aligned on what changed, why it mattered, and how to support it. For external communication, I wrote a starting draft to jump-start GTM, then co-created the final version with them. Because Audette served large enterprise customers, external notes sometimes had to be tailored by account.",
+              "why": "The product evolved continuously without a strict release cadence, so the team needed clear internal communication and customer-facing messaging that matched the realities of enterprise accounts.",
+              "outcomes": "Improved internal alignment around releases, gave GTM a stronger starting point for customer communication, and supported clearer enterprise-facing rollout messaging when changes needed to be explained differently by account.",
+              "visibility": "public",
+              "tags": [
+                "release-notes",
+                "gtm-enablement",
+                "enterprise",
+                "product-communication"
+              ],
+              "metrics": [],
+              "stakeholders": [
+                "executives",
+                "team leads",
+                "GTM team",
+                "Customer Success",
+                "enterprise customers"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "fad61fc5-6b3a-40d7-a88a-214f556c2ae2",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 12
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped an energy modeling improvement called \"calibration\"",
+              "what": "Shipped an energy modeling improvement called \"calibration\"",
+              "how": "Partnered with data scientists, building engineers, customer energy managers, and the customer success team to understand energy data flaws. Published data acquisition guidelines for CS managers. Provided guidance to developers on scope.",
+              "why": "Calibration adjusts modeling results to real-world data, giving users a realistic idea of potential energy and carbon savings and budget. It was crucial for proving the credibility of our solution.",
+              "outcomes": "Shipped a first, imperfect version that convinced customer technical teams of our solution's credibility. Learned the importance of building visibility into modeling engines to avoid technical debt and improve troubleshooting.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "interview-derived-audette-ai-observability-accuracy",
+              "type": "achievement",
+              "date": {
+                "year": 2024,
+                "month": 12
+              },
+              "location": "Remote (Canada)",
+              "title": "Built observability around AI energy-modeling accuracy to overcome technical buyer objections",
+              "what": "Helped the data science team build observability around a neural network trained to replicate traditional energy-modeling software results, with the goal of improving modeling accuracy and expanding the range of building types supported.",
+              "how": "Defined internal dashboard needs for error analysis across parameters such as building type, climate zone, pure inference stage, energy calibration stage, and equipment validation stage. The team compared inferred consumption against actual consumption whenever customer data was available, and relied on trusted synthetic reference data when it was not. I worked across product and technical stakeholders to ensure the outputs were understandable and useful for iteration and sales credibility.",
+              "why": "Technical buyers repeatedly challenged modeling accuracy during the sales process. We needed stronger observability to guide model improvement, reduce skepticism, and make the system commercially credible.",
+              "outcomes": "Helped the team overcome technical objections on prediction accuracy by showing the system could land within about 80% precision in seconds for a few dollars, versus traditional approaches that could take months and thousands of dollars to reach full accuracy. This moved energy audits further down the operating pipeline and contributed to higher pilot conversion once a hidden confidence threshold was reached.",
+              "visibility": "public",
+              "tags": [
+                "ai",
+                "ml",
+                "observability",
+                "energy-modeling",
+                "technical-sales",
+                "product-strategy"
+              ],
+              "metrics": [
+                "~80% precision",
+                "seconds instead of months",
+                "few dollars instead of thousands"
+              ],
+              "stakeholders": [
+                "CTO",
+                "Data Scientist",
+                "VP of Product",
+                "Chief Commercial Officer",
+                "CEO",
+                "technical buyers",
+                "customers"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "3db9d1c6-c9c3-44e8-ad7c-a3813c5e5e4a",
+              "type": "operations",
+              "date": {
+                "year": 2024,
+                "month": 1
+              },
+              "location": "Remote (Canada)",
+              "title": "Reduced the bug backlog by over 50% and stopped its growth",
+              "what": "Reduced the bug backlog by over 50% and stopped its growth",
+              "how": "Switched from Notion to Shortcut; created a dedicated bug reporting funnel with a Slack channel and documentation; established a ritual of 3 weekly bug touch points; acted as gatekeeper, sorting and prioritizing bugs; prioritized deep backend refactoring to eliminate recurring bug sources.",
+              "why": "Bugs and technical debt consumed over 60% of development attention, leading to delayed and expensive features, and impacting company survival.",
+              "outcomes": "Reduced bug backlog by 50% and stopped its growth over 2 years.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "interview-derived-audette-rooftop-hvac-detection",
+              "type": "achievement",
+              "date": {
+                "year": 2023,
+                "month": 12
+              },
+              "location": "Remote (Canada)",
+              "title": "Integrated rooftop HVAC computer vision into the modeling system with confidence guardrails and fallback logic",
+              "what": "Helped shape a rooftop detection system that used aerial HD imagery to identify rooftop boundaries, rooftop HVAC units, gas lines, and equipment types, then fed those results into the energy-modeling system to improve inferred equipment lists.",
+              "how": "Focused on making the detection system connect cleanly with the SaaS platform and improve overall system performance. I helped define guardrails around confidence handling, rejecting low-confidence outputs and falling back to standard inference when detection returned nothing. I also had to stay vigilant because early versions often crashed the modeling layer and the application. Key failure cases included wrong rooftop boundaries, incorrect overlap between rooftop and address, and low-confidence or unreliable detections.",
+              "why": "Existing inference methods based only on localized construction standards and cross-referenced datasets were not accurate enough to support the level of modeling quality we wanted. We needed another signal source to improve confidence in inferred heating, cooling, and ventilation equipment.",
+              "outcomes": "Strengthened the product's demo story and made prospects visibly more confident in the system. While the direct impact on modeling quality was difficult to measure precisely, the feature improved trust in the inferred equipment list and contributed to overcoming technical skepticism during the sales process.",
+              "visibility": "public",
+              "tags": [
+                "ai",
+                "ml",
+                "computer-vision",
+                "energy-modeling",
+                "guardrails",
+                "product-integration"
+              ],
+              "metrics": [],
+              "stakeholders": [
+                "Data Scientist",
+                "engineering team",
+                "technical buyers",
+                "prospects",
+                "customers"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "interview-derived-audette-strategic-planning-offsites",
+              "type": "leadership",
+              "date": {
+                "year": 2024,
+                "month": 10
+              },
+              "location": "Remote (Canada)",
+              "title": "Led quarterly strategic planning and operating alignment offsites",
+              "what": "Participated in quarterly strategic planning offsites and helped shape the company's forward-looking product initiatives.",
+              "how": "Brought the VP of Product a set of high-value problems and initiatives to solve, acted as a thought partner to prioritize them, then reworked the list with the CTO to merge product and technical priorities. At offsites, guided high-level planning sessions around scope, priorities, ownership, and timelines.",
+              "why": "The company needed a clearer shared view of which initiatives would create the most value for customers and the business, and needed better alignment across product, engineering, and GTM.",
+              "outcomes": "Helped define the strategic short list for upcoming quarters from Q2 2023 through Q4 2024. In the last offsite, also ran a \"how we work\" workshop focused on integrating better with GTM, reducing waiting days, miscommunication, and expectation gaps that were causing completed features to sit undeployed for weeks.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "d9e17bb8-cfca-4c1d-8251-01b9ad4f3a76",
+              "type": "achievement",
+              "date": {
+                "year": 2024,
+                "month": 12
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped big changes in the application Front End, implementing a design system V1",
+              "what": "Shipped big changes in the application Front End, implementing a design system V1",
+              "how": "Worked closely with the designer and front end developers; sliced an ambitious vision into small 2-week sprints. Used REACT for the front-end and FIGMA for designs.",
+              "why": "To increase readability, UX navigation fluidity, and data analytics and charts updates at both Portfolio and individual asset levels. The goal was to repackage large amounts of data and insights into smaller, more focused interactions to help users become experts in asset portfolio decarbonization, one step at a time. This was done with minimal market data and customer information, lots of ambiguity, and required leadership and vision. We wanted to match the WHY of our customers. Why would they make commercial real estate decarbonization a priority? Our platform thus had to make that point clear to them, show the pain of the prolem of doing nothing AND demonstrating that taking action was actually a great opportunity.",
+              "outcomes": "The application received a lot of good feedback from the growing pipeline of customers activated in pilot projects. We stayed on track with our sprints. We also implemented POSTHOG for product tracking to measure customer activity and validate hypotheses, viewing the shipped work as fundamental platform \"lego blocks\" to be refined later.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "11d95d8e-8cf5-4ef7-8032-c4f9e3a3d027",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 3
+              },
+              "location": "Remote (Canada)",
+              "title": "Focused on the economics of transforming real estate assets' energy and emissions profile",
+              "what": "Focused on the economics of transforming real estate assets' energy and emissions profile",
+              "how": "Created a robust data pipeline to monitor the legal landscape and find different rules and laws definitions; encoded this business logic in the web platform; allocated business logic to the proper assets; ensured exact calculations of carbon fines and represented them in useful UI at both individual asset and portfolio levels",
+              "why": "The market was shifting as various GHG Emissions Laws were passing in cities and states. We needed to surface those numbers to our users and be in line with the exact legal definitions.",
+              "outcomes": "Improved the application backend to accept assumptions like carbon prices, setting the foundation to surface more modeling assumptions. This also allowed us to offer better services to customers, helping them uncover hidden carbon risks in their asset portfolios, which became core to a new carbon due diligence support service offering.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "ede9eae8-f03b-4799-a98a-61d7074cc31c",
+              "type": "operations",
+              "date": {
+                "year": 2025,
+                "month": 3
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped self-serve customer account creation",
+              "what": "Shipped self-serve customer account creation",
+              "how": "Gathered feedback from GTM team and developers. This feature was quite run of the mill, somehting that needed to meet web standards.",
+              "why": "Creating an account, adding users and setting basic configs is a solved problem on the internet and should be done fast -- without drama. Up to that point the process of new accounts required developers tieme",
+              "outcomes": "The outcome was that Customer Success Managers could now create a customer account and add users for clients instead of requiring developers time. We also could book meetings with customers to hand out accounts ready to go as there no need to wait for devs to be available to set up the accounts -- i forgot that we could also set the account reporting currency (CAD, USD, etc)",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            },
+            {
+              "id": "733e5dc2-b5d3-4ca4-80be-76e7bcfa44c4",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 5
+              },
+              "location": "",
+              "title": "Created a prototype for Energy Data UI and UX",
+              "what": "Created a prototype for Energy Data UI and UX",
+              "how": "Built a personal app sandbox and connected Claude API tokens to the Aider coding agent, making it possible to rapidly explore different ways to handle Audette's data and render it in the front end.",
+              "why": "The existing UI/UX did not allow users to clearly understand how different application parts interacted, which was slowing adoption and reducing user activity on the platform.",
+              "outcomes": "Removed much more uncertainty before epic scoping, gave teammates clearer concepts to react to during planning and design review, and reduced the UI/UX exploration phase by 3x.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Aider",
+                "Claude API",
+                "prototype sandbox"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "5c2e069a-1d87-437d-a52f-ff6e56b38c37",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 7
+              },
+              "location": "Remote (Canada)",
+              "title": "Created a prototype for the \"Equipment\" problem in application logic",
+              "what": "Created a prototype for the \"Equipment\" problem in application logic",
+              "how": "Used AI tools to build both front-end and back-end; worked from the sidelines to experiment and form opinions",
+              "why": "We needed to make more progress faster with features development. The design review cycle was taking too much time as well as development. I decided to go all in with AI tools to remove as much risk up front and explore a much wider territory. Thus the features would be better defined and better documented with live prototypes to support discussions of scope, and risk",
+              "outcomes": "Unlocked a better solution by allowing a broader exploration of what was possible before committing scope. The result was a simpler architecture, clearer UX, and better business logic boundaries.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Aider",
+                "Claude API",
+                "prototype sandbox"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "0f55bfb0-e25c-4422-a3f8-3e52ceffd75b",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 8
+              },
+              "location": "Remote (Canada)",
+              "title": "Shipped a prototype of the data Reports page",
+              "what": "Shipped a prototype of the data Reports page",
+              "how": "Built completely with AI tools in a personal app sandbox using Claude API access through Aider, enabling rapid front-end exploration around Audette's data rendering patterns.",
+              "why": "To solve a customer problem: they were overwhelmed by the data AND to accelerate features development cycle",
+              "outcomes": "Enabled live demos of a new front end, gave teammates clearer concepts during scoping and design review, and reduced the UI/UX exploration phase by 3x.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Aider",
+                "Claude API",
+                "prototype sandbox"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "dd5d3274-736c-4f79-b5ad-8b1b0fcda025",
+              "type": "transition",
+              "date": {
+                "year": 2025,
+                "month": 9
+              },
+              "location": "Remote (Canada)",
+              "title": "Ended role",
+              "what": "Ended role",
+              "how": "",
+              "why": "Budget cuts. Sales growth wasn't on pace with forecasts. The team cut the company's product function, reduced technical headcount, entering survival mode. The sales cycles were longer than expected.",
+              "outcomes": "Looking for new opportunities in the energy & climate tech sector.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv"
+              ],
+              "confidence": "imported_from_csv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24a89c66-9ae4-4a51-9809-e52908bdace1",
+      "name": "Elite AI",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, CAN"
+      ],
+      "notes": "Live product: https://iamelite.ai",
+      "roles": [
+        {
+          "id": "24a89c66-9ae4-4a51-9809-e52908bdace1::Entrepreneur",
+          "title": "Entrepreneur",
+          "employment_type": "",
+          "location": "Montréal, QC, CAN",
+          "start": {
+            "year": 2025,
+            "month": 10
+          },
+          "end": null,
+          "summary_derived": "",
+          "notes": "",
+          "events": [
+            {
+              "id": "c03a7393-c55f-4324-89bc-1ea681f55a11",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Established an AI-assisted product development workflow",
+              "what": "Created a repeatable workflow for building the product with AI support across product framing, PRD creation, coding, and human review.",
+              "how": "Improved output quality by managing context deliberately at each step: clarifying the problem, solution requirements, and desired outcomes before generating PRDs, then handing PRDs to coding agents through a tech-lead review discussion to surface hidden technical gaps and logic issues earlier. This workflow later evolved into reusable product and UX skills influenced by Shape Up thinking.",
+              "why": "Early attempts produced spaghetti code, repeated restarts, and major refactoring overhead. A better workflow was needed to build with more intention and less churn.",
+              "outcomes": "Reduced rework and improved execution quality. Combined with model improvements, this created a much higher-velocity development flow with fewer retries and more reliable feature output.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "ChatGPT",
+                "Claude Code",
+                "Gemini"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "9ec1cb3f-2f02-4c4d-b9b3-50d89b6e7848",
+              "type": "achievement",
+              "date": {
+                "year": 2026,
+                "month": 4
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Extended Elite AI into reusable terminal-based LLM skills",
+              "what": "After launching Elite AI as a web app, developed a companion approach that delivered the same core value through reusable terminal-based LLM skills packaged in the hotbread studio repo.",
+              "how": "Created structured skill sets in `job-search-skills` and `software-pm-skills`, turning repeatable workflows into reusable prompts and methods for career-detail expansion, job-search tracking, interview preparation, custom resume creation, and product work. The skills included `problem-framing`, `solution-shaping`, `product-launching`, `breadboarding`, and `ascii-ui-exploration`.",
+              "why": "Realized the same core value could be delivered without a web app by packaging the workflow itself as reusable terminal-based LLM skills.",
+              "outcomes": "Created a v2 companion to Elite AI that opened a different path for helping users increase the resolution of their career details and execute job-search work with lower friction and more flexibility than a web app alone.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [
+                "Estimated 5x productivity increase in structured product work"
+              ],
+              "stakeholders": [],
+              "tools": [
+                "LLM skills",
+                "terminal workflows",
+                "problem-framing",
+                "solution-shaping",
+                "product-launching",
+                "breadboarding",
+                "ascii-ui-exploration"
+              ],
+              "source_refs": [
+                "career-source-interview",
+                ".agents/skills/problem-framing/SKILL.md",
+                ".agents/skills/solution-shaping/SKILL.md",
+                ".agents/skills/product-launching/SKILL.md",
+                ".agents/skills/breadboarding/SKILL.md",
+                ".agents/skills/ascii-ui-exploration/SKILL.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "f6ea8dd6-58b3-43bc-85e1-0d1aefaf6fe2",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 11
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Designed the data architecture for conversational career discovery",
+              "what": "Built the core data architecture and database foundation that made Elite AI's conversational product experience possible.",
+              "how": "Designed and implemented a Python and FastAPI backend with a PostgreSQL database, server-rendered HTML templates over the wire, and minimal JavaScript. Defined the structured timeline and event model, privacy and visibility defaults, owner-versus-visitor boundaries, session patterns, and the deterministic data shape needed to support both profile building and public discovery.",
+              "why": "The product needed stronger AI grounding and a better public discovery experience than static resumes or loosely structured chat inputs could provide.",
+              "outcomes": "Created a foundation that supported reliable AI grounding, safer database interactions, and a more coherent public experience where visitors could explore professional stories through context-aware conversations.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Python",
+                "FastAPI",
+                "PostgreSQL",
+                "HTML templates",
+                "minimal JavaScript"
+              ],
+              "source_refs": [
+                "career-source-interview",
+                "data/elite ai/README.md",
+                "data/elite ai/CONTEXT.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "40b9ff99-7147-4a4d-b63e-ebbeae8c93f5",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 12
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Enabled AI agents to interact safely with career data",
+              "what": "Implemented the interview bot and public advocate bot on top of the app's data architecture so agents could read from and write to career data under controlled conditions.",
+              "how": "Enabled the bots to create and edit timeline events using scoped tools, validation rules, and visibility defaults. Chose Gemini as the most cost-effective model and added integration tests to make agent behavior more consistent and less of a black box.",
+              "why": "These AI features were what made the app feel useful and differentiated, but database writes required guardrails to reduce bad edits or data loss.",
+              "outcomes": "Visitors could ask questions from their own hiring context and receive tailored answers without mapping a resume manually. Profile owners could use interview prompting to recover and structure career details more easily than starting from a blank page.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Gemini",
+                "integration tests"
+              ],
+              "source_refs": [
+                "career-source-interview",
+                "data/elite ai/README.md",
+                "data/elite ai/USERGUIDE.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "8074564f-cb61-413a-98fb-ca97efc76d57",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 12
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Launched a live MVP of Elite AI",
+              "what": "Built and launched Elite AI, a web app with agentic features that turns a resume into a living conversational profile visitors can explore through chat.",
+              "how": "Built the full application myself using a repeatable loop of agent support: product ideation and framing, narrow PRDs for production-ready features, agentic coding, and human review by me until the MVP reached an acceptable quality bar. Implemented a Python and FastAPI backend with a PostgreSQL database, server-rendered HTML templates over the wire, and minimal JavaScript, then deployed the application on Render. The product included profile creation, conversational discovery, interview-guided profile building, resume import, timeline management, and privacy controls.",
+              "why": "Wanted to create a better alternative to static resumes and generic job platforms by making professional stories more discoverable, interactive, and grounded in actual experience. Also used the project to test how far modern AI tools could accelerate end-to-end product building.",
+              "outcomes": "Launched a live MVP at https://iamelite.ai that I could reference directly in job applications. Added a link to my online career agent in submitted resumes, and some interviewers mentioned that they had tried it during the hiring process.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "ChatGPT",
+                "Claude Code",
+                "Gemini",
+                "Python",
+                "FastAPI",
+                "PostgreSQL",
+                "HTML templates",
+                "minimal JavaScript",
+                "Render"
+              ],
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview",
+                "data/elite ai/README.md",
+                "data/elite ai/CONTEXT.md",
+                "data/elite ai/USERGUIDE.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-elite-ai-posthog",
+              "type": "achievement",
+              "date": {
+                "year": 2025,
+                "month": 12
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Implemented PostHog to monitor user behavior in Elite AI",
+              "what": "Implemented PostHog in Elite AI to track whether users completed the intended product flows and to see where they stumbled in the experience.",
+              "how": "Added product analytics instrumentation around key user journeys so I could observe whether the UX happy path was actually happening for people who tried the product and identify friction points that needed attention.",
+              "why": "I needed direct behavioral evidence instead of relying on intuition to understand whether the product experience was working and where users were getting blocked.",
+              "outcomes": "Created a clearer view of user progress and friction inside the product, making it easier to evaluate UX quality and spot where the experience was breaking down.",
+              "visibility": "public",
+              "tags": [
+                "analytics",
+                "ux",
+                "instrumentation",
+                "product-learning"
+              ],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "PostHog"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cb5d44f-6df9-4949-9a6b-6f0ef96c9d1d",
+      "name": "Super Capitaine",
+      "aliases": [],
+      "locations": [
+        "Montréal, QC, CAN"
+      ],
+      "notes": "Live product: https://supercapitaine.com",
+      "roles": [
+        {
+          "id": "0cb5d44f-6df9-4949-9a6b-6f0ef96c9d1d::Founder",
+          "title": "Founder",
+          "employment_type": "",
+          "location": "Montréal, QC, CAN",
+          "start": {
+            "year": 2026,
+            "month": 2
+          },
+          "end": null,
+          "summary_derived": "",
+          "notes": "",
+          "events": [
+            {
+              "id": "fd3f9d98-1cde-4e9c-8e9a-34f3f98d7e90",
+              "type": "achievement",
+              "date": {
+                "year": 2026,
+                "month": 2
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Launched Super Capitaine to simplify weekly sports lineup management",
+              "what": "Built Super Capitaine, a focused web app for recreational sports captains to manage weekly game attendance without chasing players across texts, emails, and spreadsheets.",
+              "how": "Built the product from scratch using the AI-assisted product development workflow developed during Elite AI and continued improving it through this project. Implemented a Python and FastAPI backend with a PostgreSQL database, server-rendered HTML templates over the wire, and as little JavaScript as possible. Designed and built the full MVP including account creation, sign-in and sign-out, team creation, game creation, player management, email-driven invitations, and RSVP web flows for confirming player availability.",
+              "why": "The idea came from repeatedly experiencing the same coordination problem across hockey, ultimate frisbee, and soccer teams, as well as while coaching my son's hockey team. I saw that captains were wasting an outsized amount of mental energy every week just figuring out who was playing.",
+              "outcomes": "Launched a live MVP at https://supercapitaine.com and began running pilots with people around me. The product was intentionally scoped to do one thing very well rather than expand into a broader team-management tool.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "Python",
+                "FastAPI",
+                "PostgreSQL",
+                "HTML templates",
+                "minimal JavaScript"
+              ],
+              "source_refs": [
+                "career-source-interview",
+                "data/super capitaine/README.md",
+                "data/super capitaine/BRAND.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "2d3ce89d-d4fa-4dd7-9877-979eb6c7c5db",
+              "type": "achievement",
+              "date": {
+                "year": 2026,
+                "month": 2
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Focused the product on core captain UX instead of feature breadth",
+              "what": "Made product and UX decisions to keep Super Capitaine narrowly focused on the captain's most important recurring job: confirming lineups for the next game.",
+              "how": "Observed that many competing products tried to do too much and created unsatisfying experiences by missing the most important core workflow. Deliberately kept the product small and operational, prioritizing the captain journey from roster setup to invitation sending to player confirmation.",
+              "why": "This category is easy to replicate, so the real differentiation was not feature count but nailing the experience captains actually need every week.",
+              "outcomes": "Created a clearer MVP with tighter scope and a more opinionated user experience centered on reducing weekly coordination load for captains.",
+              "visibility": "public",
+              "tags": [],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview",
+                "data/super capitaine/README.md",
+                "data/super capitaine/BRAND.md"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-super-capitaine-posthog",
+              "type": "achievement",
+              "date": {
+                "year": 2026,
+                "month": 2
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Implemented PostHog to monitor user behavior in Super Capitaine",
+              "what": "Implemented PostHog in Super Capitaine to track whether users completed the intended product flows and to see where they stumbled in the experience.",
+              "how": "Instrumented the core captain and player journeys so I could verify whether the UX happy path was happening for real users and identify the points where they were dropping off or getting confused.",
+              "why": "I wanted product decisions to be informed by actual user behavior, especially in a narrowly scoped product where UX quality on the main flow mattered more than feature breadth.",
+              "outcomes": "Made it easier to assess whether the product's core experience was working as intended and where user friction needed to be reduced.",
+              "visibility": "public",
+              "tags": [
+                "analytics",
+                "ux",
+                "instrumentation",
+                "product-learning"
+              ],
+              "metrics": [],
+              "stakeholders": [],
+              "tools": [
+                "PostHog"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_cutting": {
+    "skills": [
+      "Product Strategy",
+      "Product Execution",
+      "Product Vision",
+      "B2B SaaS",
+      "AI/ML",
+      "Rapid Prototyping",
+      "Climate Tech",
+      "CRE & ESG Data",
+      "Energy Modeling",
+      "Financial Modeling",
+      "Product Discovery",
+      "UX Collaboration",
+      "Agile Delivery",
+      "Stakeholder Alignment",
+      "GTM Strategy",
+      "Startup Operations",
+      "LLMs",
+      "E-Commerce"
+    ],
+    "domains": [
+      "Climate Tech",
+      "CRE & ESG Data",
+      "Energy Modeling",
+      "E-Commerce",
+      "B2B SaaS"
+    ],
+    "tools": [
+      "Claude Code",
+      "Aider",
+      "Python",
+      "JS",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Shopify",
+      "HubSpot",
+      "CRMs"
+    ],
+    "themes": []
+  },
+  "derived": {
+    "career_highlights": [
+      "Entrepreneurial Execution: Founded and scaled two profitable companies (Taïga Ultimate and Kickflip). Both companies are still active and growing. Piloted a successful merger with BE Ultimate. Demonstrated strong ownership mindset, execution speed, and long-term business sustainability.",
+      "0→1 Product Delivery: Launched first-generation products at Audette, Alterum, and BE Ultimate. Defined roadmap, built MVPs, aligned cross-functional teams, and drove go-to-market readiness. All of them generated revenues.",
+      "Customer Discovery & Validation: Led dozens of stakeholder interviews across ESCOs, utilities, and CRE asset managers to refine product value propositions and user journeys.",
+      "Commercialization & Revenue Growth: Scaled an AI-powered energy-modeling engine from R&D proof-of-concept to a commercial SaaS platform adopted by 10+ global CRE firms, generating approximately CA $1M ARR within 18 months at Audette.",
+      "Sales & Partnership Enablement: Designed and managed B2B sales funnels at Taïga Ultimate and BE Ultimate, integrating CRM and automation tools to accelerate conversions. At Alterum, initiated and secured a pilot partnership with a leading ESCO, validating market fit.",
+      "AI-enabled product development: Built internal prototyping workflows using ChatGPT and Claude Code to accelerate design, improve requirements clarity, and reduce engineering rework.",
+      "Automation & Efficiency Gains: Built and deployed custom API integrations to automate order-to-production workflows, cutting manual errors by more than 70 percent and tripling productivity per employee at BE Ultimate."
+    ],
+    "resume_variants": []
+  }
+}

@@ -36,10 +36,10 @@
           "events": [
             {
               "id": "5e029c45-0b89-4e83-9c8f-910ae6809bdd",
-              "type": "project",
+              "type": "milestone",
               "date": {
                 "year": 1993,
-                "month": 1
+                "month": 8
               },
               "location": "QC, Canada",
               "title": "Played elite hockey",
@@ -74,7 +74,7 @@
           "events": [
             {
               "id": "9ec988d8-7ebf-473e-97bc-a1e6e09fc704",
-              "type": "project",
+              "type": "milestone",
               "date": {
                 "year": 1999,
                 "month": 1
@@ -143,7 +143,6 @@
               "stakeholders": [],
               "tools": [],
               "source_refs": [
-                "CPAINCHAUD_Product_052226.pdf"
               ],
               "confidence": "derived_from_resume_pdf"
             }
@@ -199,7 +198,6 @@
               "stakeholders": [],
               "tools": [],
               "source_refs": [
-                "CPAINCHAUD_Product_052226.pdf"
               ],
               "confidence": "derived_from_resume_pdf"
             },
@@ -222,8 +220,7 @@
               "stakeholders": [],
               "tools": [],
               "source_refs": [
-                "timeline_events_2026-06-09.csv",
-                "CPAINCHAUD_Product_052226.pdf"
+                "timeline_events_2026-06-09.csv"
               ],
               "confidence": "imported_from_csv"
             }
@@ -555,6 +552,39 @@
               "confidence": "imported_from_csv"
             },
             {
+              "id": "career-source-interview-taiga-continuous-field-discovery",
+              "type": "research",
+              "date": {
+                "year": 2013,
+                "month": 9
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Used continuous field discovery to shape Taïga's product and offer",
+              "what": "Used frequent participation in ultimate frisbee and direct selling conversations to continually discover customer requirements while building Taïga Ultimate.",
+              "how": "Interacted weekly with players as an active participant to learn apparel and product needs. In sales conversations, worked with team captains and club administrators to uncover purchasing-process, payment, ordering, production-reliability, and customer-service requirements, then baked those needs into the offer and operating model.",
+              "why": "Teams were not choosing a supplier on jerseys alone. The goal was to remove administrative and financial friction and give buyers confidence that the ordering and production process would work reliably.",
+              "outcomes": "Shaped a differentiated offer in which uniforms represented less than half of the customer value; the broader value proposition combined easier purchasing, lower financial friction, production reliability, and customer-service quality.",
+              "visibility": "public",
+              "tags": [
+                "customer-discovery",
+                "field-research",
+                "jobs-to-be-done",
+                "ecommerce",
+                "service-design"
+              ],
+              "metrics": [],
+              "stakeholders": [
+                "ultimate players",
+                "team captains",
+                "club administrators"
+              ],
+              "tools": [],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
               "id": "91e6f173-09db-49e5-90e9-2c28b22d7ae5",
               "type": "project",
               "date": {
@@ -748,18 +778,28 @@
               "location": "Montréal, QC, CAN",
               "title": "Launched e-mail marketing campaings",
               "what": "Launched e-mail marketing campaings",
-              "how": "Used Mailchimp in the first iteration.",
+              "how": "Used Mailchimp in the first iteration, then ran A/B tests in Mailchimp, Klaviyo, and later HubSpot to compare campaign variants and iterate on the highest-converting versions.",
               "why": "The customer base had grown to a few thousand persons, we realized that team purchses were actually recurring. We thus set out to add an email marketing layer to the sales engine that preceded the different seasons with tailored value propositions for the players, and team captains. Customer retention and recurring revenue were now key metrics in our business model.",
-              "outcomes": "Lifetime customer value increased by 100%",
+              "outcomes": "Lifetime customer value increased by 100%. Email-campaign conversion improved over time through repeated A/B testing; exact conversion figures were not retained.",
               "visibility": "public",
-              "tags": [],
+              "tags": [
+                "email-marketing",
+                "experimentation",
+                "ab-testing",
+                "conversion-optimization"
+              ],
               "metrics": [],
               "stakeholders": [],
-              "tools": [],
-              "source_refs": [
-                "timeline_events_2026-06-09.csv"
+              "tools": [
+                "Mailchimp",
+                "Klaviyo",
+                "HubSpot"
               ],
-              "confidence": "imported_from_csv"
+              "source_refs": [
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
             },
             {
               "id": "f515c7b2-6b18-4823-a815-07c298391889",
@@ -950,7 +990,7 @@
               "type": "transition",
               "date": {
                 "year": 2018,
-                "month": 1
+                "month": 2
               },
               "location": "Montréal, QC, CAN",
               "title": "Ended role",
@@ -1068,10 +1108,10 @@
             },
             {
               "id": "cdd5fba5-fc6e-45b7-bf3a-497221de27ab",
-              "type": "sales",
+              "type": "leadership",
               "date": {
                 "year": 2019,
-                "month": 1
+                "month": 10
               },
               "location": "",
               "title": "Championed B Corp certification as a long-term brand and operating commitment",
@@ -1155,9 +1195,9 @@
               "location": "Remote (Canada)",
               "title": "Redesigned team ordering workflow into self-serve commerce and automated production handoff",
               "what": "Redesigned BE Ultimate's custom team ordering workflow by connecting HubSpot, Shopify, and Google Sheets so buyers could move from sales commitment to player-level ordering and supplier-ready production handoff with minimal internal manual work.",
-              "how": "Built the integration end-to-end myself using Google Apps Script plus HubSpot and Shopify API work. I customized HubSpot deals to reflect the catalog and opportunity details, modified Shopify product pages to capture player-specific customization like name and number, generated dedicated team collections, and automated the creation of production-ready Google Sheets order documents for the manufacturing partner. Sales reps could trigger collection creation from a control spreadsheet, reducing setup time from more than an hour to minutes.",
+              "how": "Built the integration end-to-end myself using Google Apps Script plus HubSpot and Shopify API work. I customized HubSpot deals to reflect the catalog and opportunity details, modified Shopify product pages to capture player-specific customization like name and number, generated dedicated team collections, and automated the creation of production-ready Google Sheets order documents for the manufacturing partner. Within dedicated team collections, I coded alternate product-page versions for otherwise identical products, enabling controlled A/B comparisons of page and merchandising variants. Sales reps could trigger collection creation from a control spreadsheet, reducing setup time from more than an hour to minutes.",
               "why": "The prior workflow depended on email coordination, captain-managed spreadsheets, manual retranscription, and internal double-checking across sales and production. That created delays, high error risk, friction for buyers, and unnecessary operational overhead. The goal was to let sales focus on closing commitments, let production focus on supplier quality, and make the ordering experience the best in the market.",
-              "outcomes": "By 2020, the workflow supported about $1M in annual sales and was growing quickly. It became a major sales differentiator because BE Ultimate could credibly pitch the best ordering experience in the market. The automation reduced errors by more than 80 percent, cut team-collection setup from more than an hour to minutes, improved margins by removing BE-side transcription risk, and directly drove roughly 3x higher revenue per employee. Within about two years, competitors started offering a similar purchasing experience.",
+              "outcomes": "By 2020, the workflow supported about $1M in annual sales and was growing quickly. It became a major sales differentiator because BE Ultimate could credibly pitch the best ordering experience in the market. The automation reduced errors by more than 80 percent, cut team-collection setup from more than an hour to minutes, improved margins by removing BE-side transcription risk, and directly drove roughly 3x higher revenue per employee. Product-page conversion and cross-sales improved over time through the controlled comparisons; exact figures were not retained. Within about two years, competitors started offering a similar purchasing experience.",
               "visibility": "public",
               "tags": [
                 "ecommerce",
@@ -1165,7 +1205,11 @@
                 "operations",
                 "sales-enablement",
                 "shopify",
-                "hubspot"
+                "hubspot",
+                "experimentation",
+                "ab-testing",
+                "conversion-optimization",
+                "cross-sell"
               ],
               "metrics": [
                 "$1M annual sales supported by 2020",
@@ -1190,9 +1234,10 @@
                 "Shopify API"
               ],
               "source_refs": [
-                "timeline_events_2026-06-09.csv"
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
               ],
-              "confidence": "interview_refined_from_memory"
+              "confidence": "user_confirmed"
             },
             {
               "id": "ee762f7a-6506-4f7c-816b-53ea7c8e5c1b",
@@ -1276,7 +1321,7 @@
               "type": "hiring",
               "date": {
                 "year": 2021,
-                "month": 1
+                "month": 3
               },
               "location": "Montréal, QC, CAN",
               "title": "Hired a senior web designer and rebuilt the product in 3 months",
@@ -1343,6 +1388,40 @@
               "tools": [],
               "source_refs": [
                 "timeline_events_2026-06-09.csv",
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-alterum-market-research",
+              "type": "research",
+              "date": {
+                "year": 2020,
+                "month": 10
+              },
+              "location": "Montréal, QC, CAN",
+              "title": "Built a market view of carbon and energy technology",
+              "what": "Conducted extensive market research across carbon and energy technology while shaping Alterum's product and commercial direction.",
+              "how": "Researched the market, attended in-person and virtual industry events, and spoke directly with market participants to understand the ecosystem, buyer context, and emerging opportunities. Supplemented this direct research with reading on the energy transition and climate transition, using those frameworks to form opinions about global challenges and the pressures shaping energy and carbon markets.",
+              "why": "Needed a grounded view of the market to position a technically complex energy-simulation product around a viable customer problem and commercial wedge.",
+              "outcomes": "Informed the repositioning toward an ESCO-led municipal-decarbonization workflow and contributed to the Montréal ESCO pilot. This market perspective also informed much of the early product judgment and discovery work at Audette.",
+              "visibility": "public",
+              "tags": [
+                "market-research",
+                "climate-tech",
+                "energy-tech",
+                "customer-discovery",
+                "positioning"
+              ],
+              "metrics": [],
+              "stakeholders": [
+                "carbon and energy technology market participants"
+              ],
+              "tools": [
+                "in-person industry events",
+                "virtual industry events"
+              ],
+              "source_refs": [
                 "career-source-interview"
               ],
               "confidence": "user_confirmed"
@@ -1630,7 +1709,7 @@
               "location": "Remote (Canada)",
               "title": "Started new role",
               "what": "Started new role",
-              "how": "I contacted Audette's then new director of product (Marc Sykes) directly on LinkedIn. I said that I tried to build a similar company at Alterum and that I would be great to exchange notes over e-coffee. We did, and after sharing our experiences, he fast tracked me to the interview process.",
+              "how": "I contacted Audette's then new director of product (Marc Sykes) directly on LinkedIn. I said that I tried to build a similar company at Alterum and that I would be great to exchange notes over e-coffee. We did, and after sharing our experiences, he fast tracked me to the interview process. Applied the carbon- and energy-tech market perspective developed at Alterum to frame early hypotheses, focus the product team, and interpret customer and market signals.",
               "why": "I loved that Audette's business model was already more specific -- targeting Real Estate Asset Managers. The lack of a clear core customer was the failure point of Alterum. Thus, I had the opportunity of building directly on top of recent experience, in the energy transition sector, which was directly aligned with my goals.",
               "outcomes": "I was hired as the first product manager at Audette. I immediately started having impact by helping tech teams to focus on a narrower set of problems, cutting noise in the GTM strategy by clarifying the focus on the core customers, and building a product narrative tying this all together.",
               "visibility": "public",
@@ -1639,9 +1718,10 @@
               "stakeholders": [],
               "tools": [],
               "source_refs": [
-                "timeline_events_2026-06-09.csv"
+                "timeline_events_2026-06-09.csv",
+                "career-source-interview"
               ],
-              "confidence": "imported_from_csv"
+              "confidence": "user_confirmed"
             },
             {
               "id": "be419b4d-d2a0-45af-9d1d-96d3c2e33992",
@@ -1653,17 +1733,26 @@
               "location": "Canada",
               "title": "Conducted customer and prospect research",
               "what": "Conducted customer and prospect research",
-              "how": "Interviewed more than half customers and prospects, watched multiple sales calls and customer success calls, and aligned with internal solution engineers and CSMs to figure out customer friction points and priorities.",
+              "how": "Conducted market and competitor analysis; interviewed more than half of customers and prospects; reviewed recorded sales calls at every stage and customer-success calls in Clari; and aligned with internal solution engineers and CSMs to identify customer friction points and priorities. Later implemented keyword detection that produced reports on product requirements, jobs to be done, and recurring themes from the call corpus.",
               "why": "The team had an unclear ICP and weak positioning. The goal of the research was to narrow the market and clarify where the product created the most value.",
               "outcomes": "Reduced the possible markets to one core segment: commercial real estate portfolio managers. Eliminated ESCOs, utilities, and governments as primary targets. Clarified the product positioning as an asset decarbonization capex planning tool using AI energy modeling to bridge sustainability and finance teams.",
               "visibility": "public",
-              "tags": [],
+              "tags": [
+                "market-research",
+                "competitive-analysis",
+                "customer-discovery",
+                "jobs-to-be-done",
+                "product-requirements"
+              ],
               "metrics": [],
               "stakeholders": [],
-              "tools": [],
+              "tools": [
+                "Clari",
+                "keyword detection"
+              ],
               "source_refs": [
                 "timeline_events_2026-06-09.csv",
-                "CPAINCHAUD_Product_052226.pdf"
+                "career-source-interview"
               ],
               "confidence": "user_confirmed"
             },
@@ -2222,6 +2311,88 @@
               "confidence": "user_confirmed"
             },
             {
+              "id": "career-source-interview-audette-genai-epic-planning",
+              "type": "operations",
+              "date": {
+                "year": 2024,
+                "month": 3
+              },
+              "location": "Remote (Canada)",
+              "title": "Used ChatGPT to strengthen epic definition and engineering handoff",
+              "what": "Used ChatGPT as part of the product-definition process for epics and requirements at Audette.",
+              "how": "Set appetite at the epic level, typically in a 2-to-6-week range, and used ChatGPT to support epic drafting. Co-created user stories with developers during handoff. Tracked epics and stories in Shortcut, connected with Slack and GitHub. Used LLMs to explore more solution territory and identify exceptions, empty states, and edge cases before development.",
+              "why": "To reduce delivery risk upfront, increase requirements clarity, and give engineering a stronger shared understanding of scope and intended behavior.",
+              "outcomes": "Produced clearer epics and handoffs, surfaced more exceptions and empty states before implementation, and reduced ambiguity before development work began.",
+              "visibility": "public",
+              "tags": [
+                "genai",
+                "product-operations",
+                "epic-writing",
+                "requirements",
+                "delivery-risk",
+                "engineering-handoff"
+              ],
+              "metrics": [
+                "2-to-6-week epic appetite"
+              ],
+              "stakeholders": [
+                "development team"
+              ],
+              "tools": [
+                "ChatGPT",
+                "Shortcut",
+                "Slack",
+                "GitHub"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
+              "id": "career-source-interview-audette-multi-agent-assistant",
+              "type": "project",
+              "date": {
+                "year": 2025
+              },
+              "location": "Remote (Canada)",
+              "title": "Reframed and released a multi-agent AI assistant for investment-planning workflows",
+              "what": "Helped redirect an inconclusive effort to make the full Audette application data set available to one LLM into a multi-agent AI assistant for users of the commercial real-estate investment-planning platform. The product connected financial, energy, carbon, legal, and building-upgrade data; it modeled more than 25 project types whose sequencing could change technical and financial outcomes.",
+              "how": "In early 2025, collaborated with the VP of Product and an AI engineer to review the use cases explored over prior months. Proposed splitting the available context across specialized agents that reported to a general user-facing agent. The general agent could call building-science, finance, and carbon-legislation agents according to the user's question, giving technical and finance-oriented users answers in terms relevant to them. Defined tool-based calculations for financial and numeric outputs rather than relying on LLM prediction. Supported an evaluation process for question-and-answer quality, hallucinations, and numerical validity. The team released the initial agent suite internally to four solution engineers and planned to modify the general agent's information intake as additional specialist agents shipped.",
+              "why": "A single LLM ingesting the application data exceeded the available context window and produced poor answer quality. The product needed to make interdependent investment, energy, carbon, and regulatory implications understandable to users with different technical and financial perspectives while keeping answers reliable enough for customer delivery.",
+              "outcomes": "The specialized-agent approach made the solution clearer and easier to manage, and allowed agents to be released incrementally. By September 2025, the internal suite enabled four solution engineers to roughly double weekly completed-inquiry velocity. The team was drafting the path to a beta release for key enterprise customers when the role ended.",
+              "visibility": "public",
+              "tags": [
+                "multi-agent-ai",
+                "agent-orchestration",
+                "enterprise-ai",
+                "evaluation",
+                "tool-use",
+                "energy-modeling"
+              ],
+              "metrics": [
+                "4 solution engineers used the internal release",
+                "Roughly doubled weekly completed-inquiry velocity",
+                "More than 25 building-upgrade project types modeled"
+              ],
+              "stakeholders": [
+                "VP of Product",
+                "AI engineer",
+                "Solution Engineering team",
+                "GTM team"
+              ],
+              "tools": [
+                "LLM agents",
+                "agent orchestration",
+                "tool-based calculations",
+                "evaluation process"
+              ],
+              "source_refs": [
+                "career-source-interview"
+              ],
+              "confidence": "user_confirmed"
+            },
+            {
               "id": "dd5d3274-736c-4f79-b5ad-8b1b0fcda025",
               "type": "transition",
               "date": {
@@ -2250,25 +2421,29 @@
     },
     {
       "id": "24a89c66-9ae4-4a51-9809-e52908bdace1",
-      "name": "Elite AI",
-      "aliases": [],
+      "name": "AI Product Experiments",
+      "aliases": [
+        "Elite AI",
+        "Super Capitaine",
+        "Hotbread Studio"
+      ],
       "locations": [
         "Montréal, QC, CAN"
       ],
-      "notes": "Live product: https://iamelite.ai",
+      "notes": "Independent AI-assisted coding and product-learning program encompassing Elite AI, Super Capitaine, and Hotbread Studio. The experiments are not operating businesses; use this organization only as Additional Experience.",
       "roles": [
         {
           "id": "24a89c66-9ae4-4a51-9809-e52908bdace1::Entrepreneur",
-          "title": "Entrepreneur",
-          "employment_type": "",
+          "title": "Independent AI Builder & Product Learner",
+          "employment_type": "Independent learning",
           "location": "Montréal, QC, CAN",
           "start": {
             "year": 2025,
             "month": 10
           },
           "end": null,
-          "summary_derived": "",
-          "notes": "",
+          "summary_derived": "Ten-month AI-assisted coding and product-learning program spanning web experiments and reusable terminal workflows; position only as Additional Experience, not entrepreneurial operating experience.",
+          "notes": "Elite AI was an early web experiment. The current direction emphasizes Hotbread Studio's terminal-centric and GitHub-based workflows. Super Capitaine is being shown to people to test for early interest.",
           "events": [
             {
               "id": "c03a7393-c55f-4324-89bc-1ea681f55a11",
@@ -2305,11 +2480,11 @@
                 "month": 4
               },
               "location": "Montréal, QC, CAN",
-              "title": "Extended Elite AI into reusable terminal-based LLM skills",
-              "what": "After launching Elite AI as a web app, developed a companion approach that delivered the same core value through reusable terminal-based LLM skills packaged in the hotbread studio repo.",
+              "title": "Created Hotbread Studio's reusable terminal-based LLM skills",
+              "what": "Created Hotbread Studio, a companion approach that delivered the same core value through reusable terminal-based LLM skills.",
               "how": "Created structured skill sets in `job-search-skills` and `software-pm-skills`, turning repeatable workflows into reusable prompts and methods for career-detail expansion, job-search tracking, interview preparation, custom resume creation, and product work. The skills included `problem-framing`, `solution-shaping`, `product-launching`, `breadboarding`, and `ascii-ui-exploration`.",
               "why": "Realized the same core value could be delivered without a web app by packaging the workflow itself as reusable terminal-based LLM skills.",
-              "outcomes": "Created a v2 companion to Elite AI that opened a different path for helping users increase the resolution of their career details and execute job-search work with lower friction and more flexibility than a web app alone.",
+              "outcomes": "Created a terminal-centric, GitHub-based alternative that helps users increase the resolution of their career details and execute job-search work with lower friction and more flexibility than a web app alone.",
               "visibility": "public",
               "tags": [],
               "metrics": [
@@ -2402,11 +2577,11 @@
                 "month": 12
               },
               "location": "Montréal, QC, CAN",
-              "title": "Launched a live MVP of Elite AI",
-              "what": "Built and launched Elite AI, a web app with agentic features that turns a resume into a living conversational profile visitors can explore through chat.",
+              "title": "Built and used a live Elite AI experiment in job applications",
+              "what": "Built Elite AI, a web experiment with agentic features that turns a resume into a conversational profile visitors can explore through chat.",
               "how": "Built the full application myself using a repeatable loop of agent support: product ideation and framing, narrow PRDs for production-ready features, agentic coding, and human review by me until the MVP reached an acceptable quality bar. Implemented a Python and FastAPI backend with a PostgreSQL database, server-rendered HTML templates over the wire, and minimal JavaScript, then deployed the application on Render. The product included profile creation, conversational discovery, interview-guided profile building, resume import, timeline management, and privacy controls.",
-              "why": "Wanted to create a better alternative to static resumes and generic job platforms by making professional stories more discoverable, interactive, and grounded in actual experience. Also used the project to test how far modern AI tools could accelerate end-to-end product building.",
-              "outcomes": "Launched a live MVP at https://iamelite.ai that I could reference directly in job applications. Added a link to my online career agent in submitted resumes, and some interviewers mentioned that they had tried it during the hiring process.",
+              "why": "Wanted to test whether modern AI tools could accelerate end-to-end product building and whether a conversational presentation of career evidence was more useful than static resumes and generic job platforms.",
+              "outcomes": "Published the experiment at https://iamelite.ai and linked to it in job applications. Some interviewers mentioned trying it during the hiring process. The experiment later informed a terminal-centric, GitHub-based approach to sharing career content.",
               "visibility": "public",
               "tags": [],
               "metrics": [],
@@ -2460,33 +2635,7 @@
                 "career-source-interview"
               ],
               "confidence": "user_confirmed"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cb5d44f-6df9-4949-9a6b-6f0ef96c9d1d",
-      "name": "Super Capitaine",
-      "aliases": [],
-      "locations": [
-        "Montréal, QC, CAN"
-      ],
-      "notes": "Live product: https://supercapitaine.com",
-      "roles": [
-        {
-          "id": "0cb5d44f-6df9-4949-9a6b-6f0ef96c9d1d::Founder",
-          "title": "Founder",
-          "employment_type": "",
-          "location": "Montréal, QC, CAN",
-          "start": {
-            "year": 2026,
-            "month": 2
-          },
-          "end": null,
-          "summary_derived": "",
-          "notes": "",
-          "events": [
+            },
             {
               "id": "fd3f9d98-1cde-4e9c-8e9a-34f3f98d7e90",
               "type": "achievement",
@@ -2495,11 +2644,11 @@
                 "month": 2
               },
               "location": "Montréal, QC, CAN",
-              "title": "Launched Super Capitaine to simplify weekly sports lineup management",
-              "what": "Built Super Capitaine, a focused web app for recreational sports captains to manage weekly game attendance without chasing players across texts, emails, and spreadsheets.",
+              "title": "Built Super Capitaine to test a weekly sports-lineup workflow",
+              "what": "Built Super Capitaine, a focused web experiment for recreational sports captains to manage weekly game attendance without chasing players across texts, emails, and spreadsheets.",
               "how": "Built the product from scratch using the AI-assisted product development workflow developed during Elite AI and continued improving it through this project. Implemented a Python and FastAPI backend with a PostgreSQL database, server-rendered HTML templates over the wire, and as little JavaScript as possible. Designed and built the full MVP including account creation, sign-in and sign-out, team creation, game creation, player management, email-driven invitations, and RSVP web flows for confirming player availability.",
               "why": "The idea came from repeatedly experiencing the same coordination problem across hockey, ultimate frisbee, and soccer teams, as well as while coaching my son's hockey team. I saw that captains were wasting an outsized amount of mental energy every week just figuring out who was playing.",
-              "outcomes": "Launched a live MVP at https://supercapitaine.com and began running pilots with people around me. The product was intentionally scoped to do one thing very well rather than expand into a broader team-management tool.",
+              "outcomes": "Published a live experiment at https://supercapitaine.com and began presenting it to people to test whether there is something worth pursuing. The product was intentionally scoped to do one thing well rather than expand into a broader team-management tool.",
               "visibility": "public",
               "tags": [],
               "metrics": [],
